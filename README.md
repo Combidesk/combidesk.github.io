@@ -1,4 +1,4 @@
-# Website source for [Boekhoudkoppelingen.nl](boekhoudkoppelingen.nl)
+# Website source for [boekhoudkoppelingen.nl](boekhoudkoppelingen.nl)
 
 ### Setup
 
