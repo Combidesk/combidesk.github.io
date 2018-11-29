@@ -14,7 +14,7 @@ This command will generate the static site in `_site`:
 jekyll serve --watch
 ```
 
-Open [localhost:4000](localhost:4000) and simply refresh the page after changing a source file.
+Open [localhost:4000](https://localhost:4000) and simply refresh the page after changing a source file.
 
 ### Publish
 Just commit & push to the repo.
