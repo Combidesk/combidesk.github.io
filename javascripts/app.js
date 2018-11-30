@@ -69,12 +69,12 @@ jQuery(document).foundation();
 
     });
 
-    $('form#contact_formx').validate({
+    $('form#contact_form').validate({
       messages: { },
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'https://formspree.io/support@combidesk.com',
+          url: 'https://formspree.io/support@combidesk.com', // TODO will be ... support@boekhoudkoppelingen.nl later
           data: $(form).serialize(),
           success: function(data) {
             $(form).trigger('reset');
