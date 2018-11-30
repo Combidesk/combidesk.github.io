@@ -69,18 +69,16 @@ jQuery(document).foundation();
 
     });
 
-    $('form#contact_form').validate({
+    $('form#contact_formx').validate({
       messages: { },
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'send.php', // TODO send to a remote endpoint
+          url: 'https://formspree.io/info@combidesk.com',
           data: $(form).serialize(),
           success: function(data) {
-            if(data.match(/success/)) {
-              $(form).trigger('reset');
-              $('#thanks').show().fadeOut(5000);
-            }
+            $(form).trigger('reset');
+            $('#thanks').show().fadeOut(5000);
           }
         });
         return false;
