@@ -74,7 +74,7 @@ jQuery(document).foundation();
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'https://formspree.io/info@combidesk.com',
+          url: 'https://formspree.io/support@combidesk.com',
           data: $(form).serialize(),
           success: function(data) {
             $(form).trigger('reset');
