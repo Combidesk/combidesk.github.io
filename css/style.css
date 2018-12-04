@@ -3723,7 +3723,7 @@ body {
 
   /*The logo will not change to small size when in tablets, because the shrink effect will not work */
   .f-topbar-fixed.shrink .top-bar .title-area a {
-    width: 200%;
+    width: auto;
   }
   .f-topbar-fixed.shrink .top-bar .title-area a img {
     width: auto;
