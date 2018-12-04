@@ -1,13 +1,13 @@
-- name: Home
-  path:
-  section_id: home
-- name: About
+# - name: Home
+#   path:
+#   section_id: home
+- name: Over ons
   path: about
   section_id: about
-- name: Services
+- name: Prijzen
   path: services
   section_id: services
-- name: Portfolio
+- name: Koppelingen
   path: portfolio
   section_id: portfolio
   children:
