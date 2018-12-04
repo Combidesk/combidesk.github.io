@@ -19,8 +19,8 @@
       path: portfolio
     - name: Kassa koppelingen
       path: portfolio
-    - name: Portfolio item
-      path: portfolio-item.html
+    # - name: Portfolio item
+    #   path: portfolio-item.html
 - name: Contact
   path: contact
   section_id: contact
