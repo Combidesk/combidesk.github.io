@@ -7,6 +7,7 @@ sudo gem install jekyll
 sudo gem install jekyll-paginate
 ```
 
+
 ### Development
 This command will generate the static site in `_site`:
 
