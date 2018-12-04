@@ -11,7 +11,13 @@
   path: portfolio
   section_id: portfolio
   children:
-    - name: Portfolio
+    - name: Webshop koppelingen
+      path: portfolio
+    - name: CRM koppelingen
+      path: portfolio
+    - name: Facturatie koppelingen
+      path: portfolio
+    - name: Kassa koppelingen
       path: portfolio
     - name: Portfolio item
       path: portfolio-item.html
