@@ -3675,7 +3675,7 @@ body {
     background-color: rgba(0, 0, 0, 0.8);
   }
   .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {
-    color: #999;
+    color: #0D1826;
     background: transparent;
   }
   .contain-to-grid.transparent .top-bar-section .has-dropdown > a:after {
