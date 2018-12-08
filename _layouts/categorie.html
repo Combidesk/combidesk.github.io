@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div id='main' role='main'>
+      <div class='full parallax' style='background-image: url(images/@stock/portfolio-header-bg.png); color: #fff;'>
+        <div class='row'>
+          <div class='large-12 columns'>
+            {% capture title %}
+            {{ page.title }}
+            {% endcapture %}
+            {% capture tagline %}
+            {{ page.tagline }}
+            {% endcapture %}
+            {% include section-header.html title=title tagline=tagline color="#0D1826" class="big" %}
+          </div>
+        </div>
+      </div>
+
+      <div class='full'>
+        <div class='row'>
+          <div class='mod modGallery'>
+
+            <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+              {{ content }}
+            </ul>
+
+          </div>
+        </div>
+
+        <div class='four spacing'></div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

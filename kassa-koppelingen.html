@@ -1,0 +1,21 @@
+---
+layout: categorie
+title: Kassa koppelingen
+tagline: Koppel nu snel je kassa systeem aan je boekhoudpakket
+section_id: portfolio
+---
+{% for application in site.applications %}
+  {% if application.klass == "kassa" %}
+    <li class="{{ application.klass }}">
+      <a href='{{ application.link_to }}'>
+        <img alt="" src="{{ application.image }}"/>
+        <div class='overlay'>
+          <div class='thumb-info'>
+            <h3>{{ application.title }}</h3>
+            <p>{{ application.desc }}</p>
+          </div>
+        </div>
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}

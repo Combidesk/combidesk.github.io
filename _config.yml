@@ -16,3 +16,11 @@ plugins: [jekyll-paginate]
 
 paginate: 3
 paginate_path: "blog/page:num"
+
+collections:
+  categorieen:
+  applications:
+    output: true
+  koppelingen:
+    output: true
+    permalink: /:collection/:name
