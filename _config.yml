@@ -21,6 +21,6 @@ collections:
   categorieen:
   applications:
     output: true
-  koppelingen:
+  integraties:
     output: true
     permalink: /:collection/:name

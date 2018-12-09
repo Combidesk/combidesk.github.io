@@ -43,15 +43,15 @@
               {{ page.key }}
               {% endcapture %}
 
-              {% for koppeling in site.koppelingen %}
-              {% if koppeling.from == page.key or koppeling.to == page.key %}
-              <li class="{{ koppeling.klass }}">
-                <a href='{{ koppeling.link_to }}'>
-                  <img alt="" src="{{ koppeling.image }}"/>
+              {% for integratie in site.integraties %}
+              {% if integratie.from == page.key or integratie.to == page.key %}
+              <li class="{{ integratie.klass }}">
+                <a href='{{ integratie.link_to }}'>
+                  <img alt="" src="{{ integratie.image }}"/>
                   <div class='overlay'>
                     <div class='thumb-info'>
-                      <h3>{{ koppeling.title }}</h3>
-                      <p>{{ koppeling.desc }}</p>
+                      <h3>{{ integratie.title }}</h3>
+                      <p>{{ integratie.desc }}</p>
                     </div>
                   </div>
                 </a>

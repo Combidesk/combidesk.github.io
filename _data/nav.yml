@@ -2,8 +2,8 @@
 #   path:
 #   section_id: home
 - name: Koppelingen
-  path: portfolio
-  section_id: portfolio
+  path: koppelingen
+  section_id: koppelingen
   children:
     - name: Webshop koppelingen
       path: webshop-koppelingen
