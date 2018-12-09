@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Make some sketches
+title:  9 Redenen Om Je Facturatiepakket Aan Je Bboekhouding Te Koppelen
 date:   2015-04-14 10:58:12
 images:
   - images/@stock/blog-3.jpg
@@ -10,9 +10,11 @@ excerpt:
 categories: Logo Development
 ---
 
-Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
+We zijn inmiddels twee jaar onderweg met de koppeling tussen Moneybird en Twinfield en we mogen gerust spreken van een succes. Zowel regionale als enkele grote kantoren hebben de koppeling in gebruik. Maar waarom zou je Moneybird koppelen aan Twinfield? We geven hieronder 9 redenen.
 
-Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
+Kantoren die van zowel MoneyBird als Twinfield gebruik maken kunnen met de Moneybird Twinfield koppeling veel administratieve verwerkingstijd besparen. De koppeling zorgt ervoor dat de verkoopfacturen welke in MoneyBird worden gemaakt automatisch als verkoopboeking overgaan naar Twinfield.
+
+Ook is het afgelopen jaar ExactOnline toegevoegd en kunnen verkoopfacturen vanuit Moneybird in ExactOnline worden toegevoegd.  debitis quam et id
 
 
 Esse labore voluptate [nam dolorum veniam](#) numquam et reiciendis qui itaque voluptas odit dicta et. est ullam et omnis repellat qui aliquam delectus quod aperiam quam tenetur odit illo voluptatem. optio tenetur occaecati autem vel occaecati voluptas iste sunt libero quo est ex eum. aut molestiae ea est inventore aut quia ab voluptatem hic iste
