@@ -1,5 +1,5 @@
 ---
 title: Facturatie koppelingen
-image: images/@stock/work-1.jpg 
+image: images/@stock/facturatie-koppelingen.png 
 link_to: facturatie-koppelingen
 ---

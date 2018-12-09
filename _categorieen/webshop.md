@@ -1,5 +1,5 @@
 ---
 title: Webshop koppelingen
-image: images/@stock/work-1.jpg
+image: images/@stock/webshop-koppelingen.png
 link_to: webshop-koppelingen 
 ---

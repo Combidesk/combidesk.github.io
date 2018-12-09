@@ -1,5 +1,5 @@
 ---
 title: CRM koppelingen
-image: images/@stock/work-1.jpg
+image: images/@stock/crm-koppelingen.png
 link_to: crm-koppelingen 
 ---

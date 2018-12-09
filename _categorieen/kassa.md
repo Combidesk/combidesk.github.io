@@ -1,5 +1,5 @@
 ---
 title: Kassa koppelingen
-image: images/@stock/work-1.jpg 
+image: images/@stock/kassa-koppelingen.png 
 link_to: kassa-koppelingen
 ---
