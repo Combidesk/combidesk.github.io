@@ -43,15 +43,15 @@
               {{ page.key }}
               {% endcapture %}
 
-              {% for integratie in site.integraties %}
-              {% if integratie.from == page.key or integratie.to == page.key %}
-              <li class="{{ integratie.klass }}">
-                <a href='{{ integratie.link_to }}'>
-                  <img alt="" src="{{ integratie.image }}"/>
+              {% for koppeling in site.koppelingen %}
+              {% if koppeling.from == page.key or koppeling.to == page.key %}
+              <li class="{{ koppeling.klass }}">
+                <a href='{{ koppeling.link_to }}'>
+                  <img alt="" src="{{ koppeling.image }}"/>
                   <div class='overlay'>
                     <div class='thumb-info'>
-                      <h3>{{ integratie.title }}</h3>
-                      <p>{{ integratie.desc }}</p>
+                      <h3>{{ koppeling.title }}</h3>
+                      <p>{{ koppeling.desc }}</p>
                     </div>
                   </div>
                 </a>
@@ -62,6 +62,7 @@
 
           </div>
         </div>
+        <div class='four spacing'></div>
       </div>
     </div>
 
