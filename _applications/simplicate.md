@@ -1,7 +1,7 @@
 ---
 title: Simplicate
 image: images/@stock/afas-koppelingen.png
-link_to: portfolio-item.html
+link_to: /applications/simplicate
 klass: crm
 ---
 

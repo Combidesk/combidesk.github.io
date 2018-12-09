@@ -1,6 +1,6 @@
 ---
 image: images/@stock/visma-koppelingen.png
 title: Visma koppelingen
-link_to: portfolio-item.html
+link_to: /applications/visma
 klass: boekhoud
 ---

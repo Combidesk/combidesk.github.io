@@ -44,50 +44,6 @@ slides:
           link_to: http://themeforest.net/user/honryou/portfolio?ref=honryou
 
 
-
-works:
-  - image: images/@stock/afas-koppelingen.png
-    title: AFAS koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/e-boekhouden-koppelingen.png
-    title: e-Boekhouden.nl koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/exactonline-koppelingen.png
-    title: ExactOnline koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/informer-koppelingen.png
-    title: InformerOnline koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/minox-koppelingen.png
-    title: Minox koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/moneybird-koppelingen.png
-    title: Moneybird koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/muis-koppelingen.png
-    title: iMUIS Online koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-  - image: images/@stock/reeleezee-koppelingen.png
-    title: Reeleezee koppelingen
-    link_to: portfolio-item.html
-    klass: graphi-design
-    <!-- desc: Design &amp; Development -->
-
-
 services:
   - icon: trophy
     title: Web Design
@@ -236,51 +192,14 @@ milestones:
             </li>
           </ul>
         </div> -->
-  
-        <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
-  
-          {% for work in page.works %}
-            <li class="{{ work.klass }}">
-              <a href='{{ work.link_to }}'>
-                <img alt="" src="{{ work.image }}" />
-                <div class='overlay'>
-                  <div class='thumb-info'>
-                    <h3>{{ work.title }}</h3>
-                    <p>{{ work.desc }}</p>
-                  </div>
-                </div>
-              </a>
-            </li>
-          {% endfor %}
-  
-        </ul>
+
+        {% include boekhoudpakketten-grid.html %}
   
       </div>
     </div>
   
     <div class='four spacing'></div>
   </div>
-
-<!-- 
-  <div class="mod modGallery">
-    <ul class="gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-      {% for work in page.works %}
-        <li class="{{ work.klass }}">
-          <a href='{{ work.link_to }}'>
-            <img alt="" src="{{ work.image }}" />
-            <div class='overlay'>
-              <div class='thumb-info'>
-                <h3>{{ work.title }}</h3>
-                <p>{{ work.desc }}</p>
-              </div>
-            </div>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div> -->
-
 
 <div class='full'>
   <div class='row'>

@@ -1,0 +1,18 @@
+<ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+  {% for application in site.applications %}
+  {% if application.klass contains "boekhoud" %}
+  <li class="{{ application.klass }}">
+    <a href='{{ application.link_to }}'>
+      <img alt="" src="{{ application.image }}"/>
+      <div class='overlay'>
+        <div class='thumb-info'>
+          <h3>{{ application.title }}</h3>
+          <p>{{ application.desc }}</p>
+        </div>
+      </div>
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+</ul>

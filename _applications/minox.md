@@ -1,6 +1,6 @@
 ---
 image: images/@stock/minox-koppelingen.png
 title: Minox koppelingen
-link_to: portfolio-item.html
+link_to: /applications/minox
 klass: boekhoud
 ---
