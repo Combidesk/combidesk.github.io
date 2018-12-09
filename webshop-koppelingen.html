@@ -4,15 +4,15 @@ title: Webshop koppelingen
 tagline: Koppel nu snel je webshop aan je boekhoudpakket
 section_id: koppelingen
 ---
-{% for application in site.applications %}
-{% if application.klass contains "webshop" %}
-<li class="{{ application.klass }}">
-  <a href='{{ application.link_to }}'>
-    <img alt="" src="{{ application.image }}"/>
+{% for koppeling in site.koppelingen %}
+{% if koppeling.klass contains "webshop" %}
+<li class="{{ koppeling.klass }}">
+  <a href='{{ koppeling.link_to }}'>
+    <img alt="" src="{{ koppeling.image }}"/>
     <div class='overlay'>
       <div class='thumb-info'>
-        <h3>{{ application.title }}</h3>
-        <p>{{ application.desc }}</p>
+        <h3>{{ koppeling.title }}</h3>
+        <p>{{ koppeling.desc }}</p>
       </div>
     </div>
   </a>

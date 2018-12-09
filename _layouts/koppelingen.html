@@ -43,7 +43,7 @@
               {{ page.key }}
               {% endcapture %}
 
-              {% for koppeling in site.koppelingen %}
+              {% for koppeling in site.koppeling %}
               {% if koppeling.from == page.key or koppeling.to == page.key %}
               <li class="{{ koppeling.klass }}">
                 <a href='{{ koppeling.link_to }}'>

@@ -2,7 +2,7 @@
 title: Moneybird koppelingen
 key: moneybird
 image: /images/@stock/moneybird-koppelingen.png
-link_to: /applications/moneybird
+link_to: /koppelingen/moneybird
 klass: boekhoud facturatie
-layout: application
+layout: koppelingen
 ---
