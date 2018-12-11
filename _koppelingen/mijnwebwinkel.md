@@ -1,5 +1,5 @@
 ---
-title: Mijnwebwinkel
+title: Mijnwebwinkel koppelingen
 key: mijnwebwinkel
 image: /images/@stock/mijnwebwinkel-koppelingen.png
 link_to: /koppelingen/mijnwebwinkel
