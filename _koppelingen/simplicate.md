@@ -7,5 +7,3 @@ link_to: /koppelingen/simplicate
 klass: crm
 layout: koppelingen
 ---
-
-Simplicate stuff
