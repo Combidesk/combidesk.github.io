@@ -1,10 +1,10 @@
 ---
 title: Lightspeed
 key: lightspeed
-image: /images/@stock/afas-koppelingen.png
+image: /images/@stock/lightspeed-koppelingen.png
 link_to: /koppelingen/lightspeed
 klass: webshop
 layout: koppelingen
 ---
 
-Lightspeed
+Lightspeed stuff
