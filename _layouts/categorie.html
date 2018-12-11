@@ -33,7 +33,7 @@
 
             <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
               {% for koppeling in site.koppelingen %}
-              {% if koppeling.klass contains page.categorie %}
+              {% if koppeling.klass contains page.categorie and koppeling.publish != false %}
 
               <li class="{{ koppeling.klass }}">
                 <a href='{{ koppeling.link_to }}'>

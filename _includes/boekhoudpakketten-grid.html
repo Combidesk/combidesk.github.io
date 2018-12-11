@@ -1,6 +1,6 @@
 <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
   {% for koppeling in site.koppelingen %}
-  {% if koppeling.klass contains "boekhoud" %}
+  {% if koppeling.klass contains "boekhoud" and koppeling.publish != false %}
   <li class="{{ koppeling.klass }}">
     <a href='{{ koppeling.link_to }}'>
       <img alt="" src="{{ koppeling.image }}"/>
