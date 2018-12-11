@@ -13,12 +13,12 @@
       path: facturatie-koppelingen
     # - name: Kassa koppelingen
     #   path: kassa-koppelingen
-- name: Over ons
-  path: about
-  section_id: about
+- name: Ervaringen
+  path: ervaringen
+  section_id: ervaringen
 - name: Prijzen
-  path: services
-  section_id: services
+  path: prijzen
+  section_id: prijzen
 - name: Contact
   path: contact
   section_id: contact
