@@ -24,10 +24,30 @@
 
       <div class='full'>
         <div class='row'>
+          {{ content }}
+        </div>
+      </div>
+      <div class='full'>
+        <div class='row'>
           <div class='mod modGallery'>
 
             <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
-              {{ content }}
+              {% for koppeling in site.koppelingen %}
+              {% if koppeling.klass contains page.categorie %}
+
+              <li class="{{ koppeling.klass }}">
+                <a href='{{ koppeling.link_to }}'>
+                  <img alt="" src="{{ koppeling.image }}"/>
+                  <div class='overlay'>
+                    <div class='thumb-info'>
+                      <h3>{{ koppeling.title }}</h3>
+                      <p>{{ koppeling.desc }}</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              {% endif %}
+              {% endfor %}
             </ul>
 
           </div>

@@ -3,19 +3,5 @@ layout: categorie
 title: CRM koppelingen
 tagline: Koppel nu snel je CRM pakket aan je boekhoudpakket
 section_id: koppelingen
+categorie: crm
 ---
-{% for koppeling in site.koppelingen %}
-  {% if koppeling.klass contains "crm" %}
-    <li class="{{ koppeling.klass }}">
-      <a href='{{ koppeling.link_to }}'>
-        <img alt="" src="{{ koppeling.image }}"/>
-        <div class='overlay'>
-          <div class='thumb-info'>
-            <h3>{{ koppeling.title }}</h3>
-            <p>{{ koppeling.desc }}</p>
-          </div>
-        </div>
-      </a>
-    </li>
-  {% endif %}
-{% endfor %}
