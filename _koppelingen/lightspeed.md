@@ -6,5 +6,3 @@ link_to: /koppelingen/lightspeed
 klass: webshop
 layout: koppelingen
 ---
-
-Lightspeed stuff

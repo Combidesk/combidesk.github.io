@@ -6,5 +6,3 @@ link_to: /koppelingen/mijnwebwinkel
 klass: webshop
 layout: koppelingen
 ---
-
-Mijnwebwinkel stuff

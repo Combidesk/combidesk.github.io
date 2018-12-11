@@ -6,5 +6,3 @@ link_to: /koppelingen/ccvshop
 klass: webshop
 layout: koppelingen
 ---
-
-CCV Shop stuff

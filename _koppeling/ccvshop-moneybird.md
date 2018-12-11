@@ -1,8 +1,8 @@
 ---
-title: Lightspeed Moneybird koppeling
+title: CCV Shop Moneybird koppeling
 image: /images/@stock/moneybird-koppelingen.png
-link_to: /koppeling/lightspeed-moneybird
-from: lightspeed
+link_to: /koppeling/ccvshop-moneybird
+from: ccvshop
 to: moneybird
 layout: koppeling
 ---

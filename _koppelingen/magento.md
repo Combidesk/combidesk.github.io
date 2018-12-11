@@ -6,5 +6,3 @@ link_to: /koppelingen/magento
 klass: webshop
 layout: koppelingen
 ---
-
-Magento stuff
