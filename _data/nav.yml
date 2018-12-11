@@ -11,8 +11,8 @@
       path: crm-koppelingen
     - name: Facturatie koppelingen
       path: facturatie-koppelingen
-    - name: Kassa koppelingen
-      path: kassa-koppelingen
+    # - name: Kassa koppelingen
+    #   path: kassa-koppelingen
 - name: Over ons
   path: about
   section_id: about
