@@ -4,7 +4,7 @@ tagline: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offic
 key: gripp
 image: /images/@stock/gripp-koppelingen.png
 link_to: /koppelingen/gripp
-klass: crm
+# klass: crm
 layout: koppelingen
 ---
 
