@@ -7,5 +7,3 @@ link_to: /koppelingen/teamleader
 klass: crm
 layout: koppelingen
 ---
-
-Teamleader stuff
