@@ -1,16 +1,22 @@
 ---
 layout: post
-title:  A cup of coffee for you
+title:  Hoe je verschillende software pakketten met elkaar koppelt
 date:   2015-04-14 10:57:12
-images: images/@stock/blog-2.jpg
+images: images/@stock/hoe-je-verschillende-software-pakketten-met-elkaar-koppelt.png
 excerpt:
-  Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
+  Of software (eenvoudig) te koppelen is hangt voornamelijk af van de vragen of er API’s beschikbaar zijn en zo niet, of de huidige software leverancier wil meewerken. Laten we per scenario eens kijken hoe we te werk gaan.
 categories: Design Bussiness
 ---
 
-Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
+Stel, jij hebt een aannemingsbedrijf. Jullie maken gebruik van een planningsapplicatie en een urenregistratie app waarin je medewerkers de gewerkte uren kunnen bijhouden.
 
-Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
+Die systemen werken in de basis goed, maar het probleem is dat ze niet met elkaar gekoppeld zijn. Daarom kost het je collega’s veel tijd om uren vanuit de urenregistratie app handmatig in je planningssysteem te kloppen (of vice versa).
+
+Frustratie alom: je hebt namelijk fors geïnvesteerd in twee softwarepakketten die niet met elkaar communiceren.
+
+Sommige bedrijven gebruiken wel 4 of 5 verschillende software pakketten die allemaal onafhankelijk van elkaar werken. Pakketten die niet met elkaar gekoppeld zijn, maar waarin wel (gedeeltelijk) dezelfde data wordt gebruikt. Dat betekent vaak dat je veel data handmatig moet overtypen. En dat levert veel ergernis op.
+
+Even tussendoor, wil je graag dit artikel bewaren en later lezen als PDF?
 
 
 Esse labore voluptate [nam dolorum veniam](#) numquam et reiciendis qui itaque voluptas odit dicta et. est ullam et omnis repellat qui aliquam delectus quod aperiam quam tenetur odit illo voluptatem. optio tenetur occaecati autem vel occaecati voluptas iste sunt libero quo est ex eum. aut molestiae ea est inventore aut quia ab voluptatem hic iste

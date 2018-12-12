@@ -3,7 +3,7 @@ layout: post
 title:  9 Redenen Om Je Facturatiepakket Aan Je Boekhouding Te Koppelen
 date:   2018-02-28 10:58:12
 images:
-  - images/@stock/9 Redenen Om Je Facturatiepakket Aan Je Boekhouding Te Koppelen.jpg
+  - images/@stock/9-redenen-om-je-facturatiepakket-aan-je-boekhouding-te-koppeling.png
   # - images/@stock/blog-2.jpg
 excerpt:
   We zijn inmiddels twee jaar onderweg met de koppeling tussen Moneybird en Twinfield en we mogen gerust spreken van een succes. Zowel regionale als enkele grote kantoren hebben de koppeling in gebruik. Maar waarom zou je Moneybird koppelen aan Twinfield? We geven hieronder 9 redenen.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Look what we have done
+title:  UPDATE Moneybird ExactOnline koppeling - uitbreiding
 date:   2015-04-14 10:52:12
 images: images/@stock/blog-1.jpg
 excerpt:
-  Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
+  Met de Moneybird ExactOnlne koppeling heb je een aantal voordelen. Allereerst bespaar je maandelijks of ieder kwartaal aanzienlijk veel tijd doordat je niet meer een handmatige export/import tussen beide systemen hoeft uit te voeren. Alleen al dit voordeel is de maandelijkse kosten van 12 euro meer dan waard.
 categories: Design Development
 ---
 
