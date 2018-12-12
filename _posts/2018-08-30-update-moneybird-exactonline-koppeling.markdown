@@ -2,7 +2,7 @@
 layout: post
 title:  UPDATE Moneybird ExactOnline koppeling - uitbreiding
 date:   2015-04-14 10:52:12
-images: images/@stock/blog-1.jpg
+images: images/@stock/update-moneybird-exactonline-koppeling-uitbreiding.png
 excerpt:
   Met de Moneybird ExactOnlne koppeling heb je een aantal voordelen. Allereerst bespaar je maandelijks of ieder kwartaal aanzienlijk veel tijd doordat je niet meer een handmatige export/import tussen beide systemen hoeft uit te voeren. Alleen al dit voordeel is de maandelijkse kosten van 12 euro meer dan waard.
 categories: Design Development
