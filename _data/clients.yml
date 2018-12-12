@@ -1,6 +1,6 @@
-- image: images/@stock/Mazars-boekhoudkoppeling.png
-- image: images/@stock/client-2.png
-- image: images/@stock/client-3.png
-- image: images/@stock/client-4.png
-- image: images/@stock/client-5.png
-- image: images/@stock/client-6.png
+- image: images/@stock/mazars-logo.png
+- image: images/@stock/phidra-logo.png
+- image: images/@stock/abin-logo.png
+- image: images/@stock/flynth-logo.png
+- image: images/@stock/bordan-logo.png
+- image: images/@stock/hendriksen-logo.png
