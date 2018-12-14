@@ -3827,3 +3827,12 @@ body {
     display: none;
   }
 }
+
+img.logo-small {
+  width:96px;
+  height:96px;
+}
+
+.margin-bottom-10 {
+  margin-bottom: 10px;
+}
