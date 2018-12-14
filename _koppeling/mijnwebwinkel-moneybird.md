@@ -1,6 +1,6 @@
 ---
 title: Mijnwebwinkel Moneybird koppeling
-image: /images/@stock/moneybird-koppelingen.png
+image: /images/@stock/mijnwebwinkel-moneybird-koppeling.png
 link_to: /koppeling/mijnwebwinkel-moneybird
 from: mijnwebwinkel
 to: moneybird

@@ -1,6 +1,6 @@
 ---
 title: Teamleader Moneybird koppeling
-image: /images/@stock/moneybird-koppelingen.png
+image: /images/@stock/teamleader-moneybird-koppeling.png
 link_to: /koppeling/teamleader-moneybird
 from: teamleader
 to: moneybird

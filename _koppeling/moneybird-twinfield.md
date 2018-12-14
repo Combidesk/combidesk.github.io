@@ -1,6 +1,6 @@
 ---
 title: Moneybird Twinfield
-image: /images/@stock/twinfield-koppelingen.png
+image: /images/@stock/moneybird-twinfield-koppeling.png
 link_to: /koppeling/moneybird-twinfield
 from: moneybird
 to: twinfield
