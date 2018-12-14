@@ -14,6 +14,7 @@ install-url: https://combidesk.com/integration/moneybird-twinfield
 excerpt: Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa 
 
 developer: Combidesk
+developer-url: https://combidesk.com
 price-per-month: 12
 trial-days: 30
 
