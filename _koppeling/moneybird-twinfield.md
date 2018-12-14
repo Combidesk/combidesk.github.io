@@ -11,9 +11,9 @@ logo-to: /images/@stock/twinfield-koppelingen.png
 install-url: https://combidesk.com/integration/moneybird-twinfield
 #video-url: https://youtube.com/bla
 #main-image-url: /images/@stock/moneybird-twinfield-koppeling.png
-excerpt: Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa 
+excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield. U bepaalt zelf of u alleen verzonden facturen of alle facturen periodiek overgeheveld wilt hebben. Wij synchroniseren iedere 30 minuten dus u bent altijd bij met uw verkoopboekingen in Twinfield.  
 
-developer: Combidesk
+developer: Combidesk  
 developer-url: https://combidesk.com
 price-per-month: 12
 trial-days: 30
