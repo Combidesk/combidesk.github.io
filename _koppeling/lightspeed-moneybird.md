@@ -5,6 +5,7 @@ link_to: /koppeling/lightspeed-moneybird
 from: lightspeed
 to: moneybird
 layout: koppeling
+publish: false
 ---
 
 blablabla

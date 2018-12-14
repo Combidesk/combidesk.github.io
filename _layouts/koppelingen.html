@@ -1,73 +1,72 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+{% include header.html %}
 
-    <div id='main' role='main'>
-      <div class='full parallax' style='background-image: url(images/@stock/portfolio-header-bg.png); color: #fff;'>
-        <div class='row'>
-          <div class='large-12 columns'>
-            {% capture title %}
-            {{ page.title }}
-            {% endcapture %}
-            {% capture tagline %}
-            {{ page.tagline }}
-            {% endcapture %}
-            {% include section-header.html title=title tagline=tagline color="#0D1826" class="big" %}
-          </div>
-        </div>
+<div id='main' role='main'>
+  <div class='full parallax' style='background-image: url(images/@stock/portfolio-header-bg.png); color: #fff;'>
+    <div class='row'>
+      <div class='large-12 columns'>
+        {% capture title %}
+        {{ page.title }}
+        {% endcapture %}
+        {% capture tagline %}
+        {{ page.tagline }}
+        {% endcapture %}
+        {% include section-header.html title=title tagline=tagline color="#0D1826" class="big" %}
       </div>
+    </div>
+  </div>
 
-      <div class='full'>
-        <div class='row'>
-          <div class='mod modGallery'>
+  <div class='full'>
+    <div class='row'>
+      <div class='mod modGallery'>
 
-            <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
-              {{ content }}
-            </ul>
+        <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
+          {{ content }}
+        </ul>
 
-          </div>
-        </div>
-
-        <div class='four spacing'></div>
-
-        <div class="row">
-          <div class='mod modGallery'>
-
-            <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2'>
-              {% capture key %}
-              {{ page.key }}
-              {% endcapture %}
-
-              {% for koppeling in site.koppeling %}
-              {% if koppeling.from == page.key or koppeling.to == page.key %}
-              <li class="{{ koppeling.klass }}">
-                <a href='{{ koppeling.link_to }}'>
-                  <img alt="" src="{{ koppeling.image }}"/>
-                  <div class='overlay'>
-                    <div class='thumb-info'>
-                      <h3>{{ koppeling.title }}</h3>
-                      <p>{{ koppeling.desc }}</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              {% endif %}
-              {% endfor %}
-            </ul>
-
-          </div>
-        </div>
-        <div class='four spacing'></div>
       </div>
     </div>
 
-    {% include footer.html %}
+    <div class='four spacing'></div>
 
-  </body>
+    <div class="row">
+      <!--<div class='mod modGallery'>-->
+
+      {% capture key %}
+      {{ page.key }}
+      {% endcapture %}
+
+      {% for koppeling in site.koppeling %}
+      {% if koppeling.publish != false and koppeling.from == page.key or koppeling.to == page.key %}
+      <div class="small-6 columns {{ koppeling.klass }}">
+        <a href='{{ koppeling.link_to }}'>
+          <img alt="{{ koppeling.title }}" src="{{ koppeling.image }}"/>
+          <br/><br/>
+          <div class='overlay'>
+            <div class='thumb-info'>
+              <h3>{{ koppeling.title }}</h3>
+              <p>{{ koppeling.desc }}</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+</div>
+
+{% include footer.html %}
+
+</body>
 
 </html>
