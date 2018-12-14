@@ -44,7 +44,7 @@
 
       {% for koppeling in site.koppeling %}
       {% if koppeling.publish != false and koppeling.from == page.key or koppeling.to == page.key %}
-      <div class="small-6 columns {{ koppeling.klass }}">
+      <div class="large-6 small-12 columns {{ koppeling.klass }}">
         <a href='{{ koppeling.link_to }}'>
           <img alt="{{ koppeling.title }}" src="{{ koppeling.image }}"/>
           <br/><br/>
