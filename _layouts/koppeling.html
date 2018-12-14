@@ -4,8 +4,81 @@ title: Koppeling
 section_id: koppelingen
 ---
 
-
-<div class='full parallax' style='background-image: url(/images/@stock/portfolio-header-bg.jpg); color: #fff;'>
+<div class='full'>
+  <div class='row'>
+    <div class='large-6 columns'>
+      <div>
+        <img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/>+<img class="logo-small" src="{{page.logo-to}}"/><br/>
+      </div>
+      <div>
+        <h3>{{ page.title }}</h3>
+      </div>
+      <div>
+        <i>Ontwikkeld door <a href="">{{ page.developer }}</a></i>
+      </div>
+      <div class='spacing'></div>
+      <div>
+        {{ page.excerpt }}
+      </div>
+      <div class='spacing'></div>
+      <div>
+        <div class="large-6 columns">
+          <a class='button small' style="margin-bottom:0px;" href='{{ page.install-url }}'>Probeer deze koppeling</a>
+          <div class="centered-text">{{ page.trial-days}} dagen gratis uitproberen</div>
+        </div>
+        <div class="large-6 columns">
+          <div class="centered-text" style="vertical-align: center"><sup>&euro;</sup><span style="font-size:20px;"> {{ page.price-per-month }}</span> per maand</div>
+        </div>
+      </div>
+    </div>
+    <div class='large-6 columns'>
+      {% if page.video-url %}
+       insert your video here
+      {% elsif page.main-image-url %}
+        <img src="{{page.main-image-url}}"/>
+      {% else %}
+        <img src="{{page.image}}"/>
+     {% endif %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+  <div class="row">
+  {% for payoff in page.payoffs %}
+  <div class="large-4 columns">
+    <div class="margin-bottom-10"><img src="{{ payoff.image }}"/></div>
+    <div class="centered-text"><h3>{{ payoff.title }}</h3></div>
+    <div class="centered-text">{{ payoff.description }}</div>
+  </div>
+  {% endfor %}
+  </div>
+  <div class='four spacing'></div>
+  <div class="row">
+    <div class="large-8 columns">
+      <h2>Hoe werkt deze koppeling?</h2>
+      <p>{{ content }}</p>
+    </div>
+    <div class="large-4 columns">
+      <h2>Support</h2>
+      <div>Gebruikershandleiding</div>
+      <div>Ontwikkelaar</div>
+      <div>Privacy</div>
+      <div>Contact support</div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+  <div class="row">
+    <div class="large-12 columns">
+      <h2>Screenshots</h2>
+    </div>
+    {% for screenshot in page.screenshots %}
+    <div class="large-4 columns">
+      <div class="margin-bottom-10"><img src="{{ screenshot.image }}"/></div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class='four spacing'></div>
+</div>
+<!-- <div class='full parallax' style='background-image: url(/images/@stock/portfolio-header-bg.jpg); color: #fff;'>
   <div class='row'>
     <div class='large-12 columns'>
       {% capture title%}
@@ -17,57 +90,22 @@ section_id: koppelingen
   <div class='four spacing'></div>
 </div>
 
-
+-->
 
 <div class='full'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modBoxedSlider'>
-        <div class='slides'>
-          <div class='slide'>
-            <img alt="" src="/images/@stock/big-work-1.jpg" />
-          </div>
-          <div class='slide'>
-            <img alt="" src="/images/@stock/big-work-2.jpg" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class='spacing'></div>
-  <div class='row'>
-    <div class='large-8 columns'>
-      <h3>{{ page.title }}</h3>
-      <p>
-        Dolores quibusdam eum itaque est et iusto perspiciatis saepe consequuntur quia occaecati consequatur. dignissimos dolores omnis voluptatum quia totam minus architecto qui assumenda ex aut aut. voluptatem et ex qui iure illum. est rerum eum est corrupti fugiat quas repellendus officia ratione tempore aliquid aspernatur itaque enim. officia dignissimos enim veniam corporis nemo ipsam sit omnis dolorum veniam rerum reprehenderit nihil mollitia. iure tenetur ut dolor et sit maxime culpa Illo minima ipsam nihil quibusdam at omnis magni quae id at magnam quia minus tempore. sit labore consequatur nihil cum minus occaecati. velit ratione quibusdam quisquam voluptas qui quos nesciunt excepturi maiores ut aut ut perferendis quos
-      </p>
-      <div class='spacing'></div>
-      <a class='button small' href=''>Installeer</a>
-    </div>
-    <div class='large-4 columns'>
-      <ul class='info'>
-        <li>
-          <strong>Client:</strong>
-          {{ page.excerpt }}
-        </li>
-        <li>
-          <strong>Date:</strong>
-          June 2013
-        </li>
-        <li>
-          <div class='spacing'></div>
-          <a href='' title='previous'>
-            <i class='icon-left-open'></i>
-          </a>
-          <a href='portfolio.html' title='back to work list'>
-            <i class='icon-layout'></i>
-          </a>
-          <a href='' title='next'>
-            <i class='icon-right-open'></i>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
+  <!--<div class='row'>-->
+    <!--<div class='large-12 columns'>-->
+      <!--<div class='mod modBoxedSlider'>-->
+        <!--<div class='slides'>-->
+          <!--<div class='slide'>-->
+            <!--<img alt="" src="/images/@stock/big-work-1.jpg" />-->
+          <!--</div>-->
+          <!--<div class='slide'>-->
+            <!--<img alt="" src="/images/@stock/big-work-2.jpg" />-->
+          <!--</div>-->
+        <!--</div>-->
+      <!--</div>-->
+    <!--</div>-->
+  <!--</div>-->
   <div class='four spacing'></div>
 </div>
