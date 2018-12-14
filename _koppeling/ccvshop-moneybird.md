@@ -1,6 +1,6 @@
 ---
 title: CCV Shop Moneybird koppeling
-image: /images/@stock/big-work-2.jpg
+image: /images/@stock/ccvshop-moneybird-koppeling.png
 link_to: /koppeling/ccvshop-moneybird
 from: ccvshop
 to: moneybird
