@@ -656,6 +656,7 @@ hr {
   padding: 80px 0 0;
   background-size: cover;
   background-position: 50% 50%;
+  background-color: #E1EBF7
 }
 .full.no-padding {
   padding: 0;
@@ -3597,7 +3598,7 @@ body {
   padding-top: 30px;
 }
 .modTestimonials.simple .author .author-name strong {
-  color: #333;
+  color: #0D1826;
 }
 .modTestimonials.simple .slick-slider {
   margin-bottom: 10px;
