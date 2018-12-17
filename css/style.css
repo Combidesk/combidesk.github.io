@@ -2999,7 +2999,7 @@ form input.error, form textarea.error {
   font-size: 3.42857rem;
   width: 3.42857rem;
   height: 3.42857rem;
-  color: #F53240;
+  color: #4484CE;
   border: 3px solid #eee;
   display: inline-block;
   padding: 30px;
@@ -3016,7 +3016,7 @@ form input.error, form textarea.error {
   margin: 0;
 }
 .modIconText .icon-text-circle:hover i {
-  color: #02C8A7;
+  color: #F53240;
 }
 .modIconText .icon-text-simple i {
   font-size: 3.42857rem;
