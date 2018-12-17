@@ -781,7 +781,7 @@ ul.shortcode-list i {
   letter-spacing: 1px;
   color: #fff;
   background: #F53240;
-  border: 2px solid #F53240;
+  border: 2px #F53240;
 }
 
 .button:hover {
@@ -789,8 +789,8 @@ ul.shortcode-list i {
 }
 
 .button.boxed {
-  color: #fff;
-  border: 2px solid #fff;
+  color: #0d1826;
+  border: 2px solid #0d1826;
   background: none;
 }
 
