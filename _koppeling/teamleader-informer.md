@@ -1,6 +1,6 @@
 ---
 title: Teamleader Informer koppeling
-image: /images/@stock/informer-koppelingen.png
+image: /images/@stock/teamleader-informer-koppeling.png
 link_to: /koppeling/teamleader-informer
 from: teamleader
 to: informer

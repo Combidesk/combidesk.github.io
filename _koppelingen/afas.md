@@ -1,10 +1,8 @@
 ---
 title: AFAS koppelingen
+key: afas
 image: /images/@stock/afas-koppelingen.png
 link_to: /koppelingen/afas
-klass: boekhoud
-desc: De payoff van Afas
+klass: boekhoud 
 layout: koppelingen
 ---
-
-AFAS stuff

@@ -63,6 +63,10 @@ section_id: koppelingen
       <div>Ontwikkelaar</div>
       <div>Privacy</div>
       <div>Contact support</div>
+      <br>
+      <br>
+      <h2>Prijzen</h2>
+      De proefperiode bedraagt 30 dagen, daarna kost de koppeling 12 euro per administratie per maand (of 120 euro per jaar - 2 maanden korting bij een jaarlicentie).
     </div>
   </div>
   <div class='four spacing'></div>
@@ -109,3 +113,42 @@ section_id: koppelingen
   <!--</div>-->
   <div class='four spacing'></div>
 </div>
+
+
+<div class='full parallax' style='background: #fff'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p class='centered-text'>
+        <i class='fa fa-quote-left' style='color: #02C8A7; font-size: 36px;'></i>
+      </p>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      {% include section-header.html title="Wat zeggen onze gebruikers?" %}
+      <div class='spacing'></div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modTestimonials'>
+        <div class='row'>
+          <div class='small-12 columns'>
+            <div class='items centered-text'>
+              {% for testimonial in page.testimonials %}
+                <div class='item'>
+                  <p class='quote'>"{{testimonial.quote}}"</p>
+                  <p class='author'>- {{testimonial.author}}</p>
+                  <div class='two spacing'></div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          <div class='spacing'></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include our-customers.html %}
