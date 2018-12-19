@@ -6,32 +6,33 @@ section_id: koppelingen
 
 <div class='full'>
   <div class='row'>
-    <div class='large-6 columns'>
-      <div>
-        <img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/>+<img class="logo-small" src="{{page.logo-to}}"/><br/>
-      </div>
-      <div>
-        <h3>{{ page.title }}</h3>
-      </div>
-      <div>
-        <i>Ontwikkeld door <a href="{{ page.developer-url }}" target="_blank">{{ page.developer }}</a></i>
-      </div>
-      <div class='spacing'></div>
-      <div>
-        {{ page.excerpt }}
-      </div>
-      <div class='spacing'></div>
-      <div>
-        <div class="large-6 columns">
-          <a class='button small' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer deze koppeling</a>
-          <div class="centered-text">{{ page.trial-days}} dagen gratis uitproberen</div>
+    <div class='large-12 columns'>
+       <div>
+          <a href="{{ page.from-referral-url }}" target="_blank"><img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/></a><i class="fa fa-plus-square" aria-hidden="true"></i><a href="{{ page.to-referral-url }}" target="_blank"><img class="logo-small" src="{{page.logo-to}}"/></a><br/>
+       </div>
+       <div>
+         <h1 class='centered-text'>{{ page.title }}</h1> 
+       </div>
+       <div>
+         <i>Ontwikkeld door <a href="{{ page.developer-url }}" target="_blank">{{ page.developer }}</a></i>
+       </div>
+       <div class='spacing'></div>
+       <div>
+          <div class="large-12 columns">
+            <a class='button {{ button.klass }}' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer deze koppeling</a>
+            <div class="centered-text">{{ page.trial-days}} dagen gratis uitproberen</div>
         </div>
-        <div class="large-6 columns">
-          <div class="centered-text" style="vertical-align: center" font color="#02C8A7"><sup>&euro;</sup><span style="font-size:30px;"> {{ page.price-per-month }}</span> per maand</div>
+       <div>
+          <div class="large-9 columns">
+            {{ page.excerpt }}
+       </div>
+       <div class='spacing'></div>
+         <div class="large-12 columns">
+            <div class="centered-text" style="vertical-align: center" font color="#02C8A7"><sup>&euro;</sup><span style="font-size:30px;"> {{ page.price-per-month }}</span> per maand</div>
+          </div>
         </div>
-      </div>
     </div>
-    <div class='large-6 columns'>
+    <!-- <div class='large-6 columns'>
       {% if page.video-url %}
        insert your video here
       {% elsif page.main-image-url %}
@@ -39,10 +40,13 @@ section_id: koppelingen
       {% else %}
         <img src="{{page.image}}"/>
      {% endif %}
-    </div>
+    </div> -->
+    <!-- <div>
+        <img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/>+<img class="logo-small" src="{{page.logo-to}}"/><br/>
+      </div> -->
   </div>
-  <div class='four spacing'></div>
-  <div class="row">
+<div class='four spacing'></div>
+  <!-- <div class="row">
   {% for payoff in page.payoffs %}
   <div class="large-4 columns">
     <div class="margin-bottom-10"><img src="{{ payoff.image }}"/></div>
@@ -50,23 +54,50 @@ section_id: koppelingen
     <div class="centered-text">{{ payoff.description }}</div>
   </div>
   {% endfor %}
+  </div> -->
+
+  <div class='four spacing'></div>
+
+  <div class="row">
+    <div class="medium-3 large-3 columns">
+      {% include icon-text.html title='Bespaar veel tijd' desc='Geen handmatig werk meer nodig. Houd tijd over voor belangrijkere zaken.' icon_class='fa fa-clock-o' delay='0' shape_class='icon-text-circle' %}
+    </div>
+    <div class="medium-3 large-3 columns">
+      {% include icon-text.html title='Maak minder fouten' desc='Door een geautomatiseerde koppeling te gebruiken heb je een voorspelbaar resultaat in je boekhouding.' icon_class='fa fa-check-square-o' delay='200' shape_class='icon-text-circle' %}
+    </div>
+    <div class="medium-3 large-3 columns">
+      {% include icon-text.html title='Real-time synchronisatie' desc='Binnen een uur je boekhouding bijgewerkt. Onze koppelingen zijn real-time en zorgen voor een actuele boekhouding.' icon_class='fa fa-refresh' delay='400' shape_class='icon-text-circle' %}
+    </div>
+    <div class="medium-3 large-3 columns">
+      {% include icon-text.html title='Betrouwbaar en snel' desc='Onze koppelingen zijn betrouwbaar en blijven up-to-date.' icon_class='fa fa-thumbs-o-up' delay='600' shape_class='icon-text-circle' %}
+    </div>
   </div>
+
   <div class='four spacing'></div>
   <div class="row">
-    <div class="large-8 columns">
+    <div class="large-7 columns">
       <h2>Hoe werkt deze koppeling?</h2>
       <p>{{ content }}</p>
     </div>
     <div class="large-4 columns">
       <h2>Support</h2>
-      <div><a href="https://help.combidesk.com/installatiehandleidingen/moneybird/installatiehandleiding-moneybird-twinfield-koppeling" target="_blank">Gebruikershandleiding </a></div>
-      <div>Ontwikkelaar</div>
-      <div>Privacy</div>
-      <div>Contact support</div>
+      <ul>
+          <li><a href="{{ page.manual-url }}" target="_blank">Installatiehandleiding</a></li>
+          <li><a href="{{ page.developer-url }}" target="_blank">Ontwikkelaar</a></li>
+          <li><a href="{{ page.privacy-url }}" target="_blank">Privacy</a></li>
+          <li><a href="{{ page.support-url }}" target="_blank">Contact Support</a></li>
+      </ul>
       <br>
       <br>
       <h2>Prijzen</h2>
-      De proefperiode bedraagt 30 dagen, daarna kost de koppeling 12 euro per administratie per maand (of 120 euro per jaar - 2 maanden korting bij een jaarlicentie).
+        De proefperiode bedraagt {{ page.trial-days}} dagen, daarna kost de koppeling {{ page.price-per-month }} euro per administratie per maand (of 120 euro per jaar - 2 maanden korting bij een jaarlicentie).
+      <br></br>
+      <br>
+      <br>
+      <h2>Accounts</h2>
+        Om deze koppeling te kunnen gebruiken heb je een account nodig van onderstaande softwarepakketten.
+      <a href="{{ page.from-referral-url }}" target="_blank"><img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/></a><i class="fa fa-plus-square" aria-hidden="true"></i><a href="{{ page.to-referral-url }}" target="_blank"><img class="logo-small" src="{{page.logo-to}}"/></a><br/>
+      <br></br>      
     </div>
   </div>
   <div class='four spacing'></div>
@@ -80,7 +111,6 @@ section_id: koppelingen
     </div>
     {% endfor %}
   </div>
-  <div class='four spacing'></div>
 </div>
 <!-- <div class='full parallax' style='background-image: url(/images/@stock/portfolio-header-bg.jpg); color: #fff;'>
   <div class='row'>
@@ -111,8 +141,19 @@ section_id: koppelingen
       <!--</div>-->
     <!--</div>-->
   <!--</div>-->
-  <div class='four spacing'></div>
 </div>
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='two spacing'></div>
+           <a class='button {{ button.klass }}' style="margin-bottom:center;" href='{{ page.install-url }}' target="_blank">Probeer deze koppeling {{ page.trial-days}} dagen gratis</a>
+      </div>
+    </div>
+</div>
+
+<div class='four spacing'></div>
+
 
 {% include testimonials.html %}
 

@@ -23,21 +23,21 @@ layout: default
         <div class="pager">
           {% if paginator.next_page %}
             {% if paginator.next_page == 1 %}
-              <a href="/blog" class="older">Older Entries</a>
+              <a href="/blog" class="older">Vorige berichten</a>
             {% else %}
-              <a href="/blog/page{{ paginator.next_page }}" class="older">Older Entries</a>
+              <a href="/blog/page{{ paginator.next_page }}" class="older">Vorige berichten</a>
             {% endif %}
           {% else %}
-            <span class="older">Older Entries</span>
+            <span class="older">Vorige berichten</span>
           {% endif %}
           {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
-              <a href="/blog" class="newer">Newer Entries</a>
+              <a href="/blog" class="newer">Volgende berichten</a>
             {% else %}
-              <a href="/blog/page{{ paginator.previous_page }}" class="newer">Newer Entries</a>
+              <a href="/blog/page{{ paginator.previous_page }}" class="newer">Volgende berichten</a>
             {% endif %}
           {% else %}
-            <span class="newer">Newer Entries</span>
+            <span class="newer">Volgende berichten</span>
           {% endif %}
         </div>
       {% endif %}
