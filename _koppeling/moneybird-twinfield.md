@@ -39,11 +39,10 @@ testimonials:
     author: David White, Designer at Huglab
 ---
 
-### Jouw adviseur gebruikt Exact?
-Gebruikt jouw adviseur Exact? En jij wilt graag Informer blijven gebruiken? Dat kan nu eindelijk! Koppel je Informer account aan het Exact account van je adviseur en importeer zo alle verkoopfacturen vanuit Informer naar Exact. Op die manier kunnen zowel jij als je adviseur op een efficiënte manier je boekhouding bijhouden!
+### Jouw adviseur gebruikt Twinfield?
+Gebruikt jouw adviseur Twinfield? En jij wilt graag Moneybird blijven gebruiken? Dat kan vanaf nu. Koppel je Moneybird account aan het Twinfield account van je adviseur en importeer zo alle verkoopfacturen vanuit Moneybird naar Twinfield. Op die manier kunnen zowel jij als je adviseur op een efficiënte manier je boekhouding bijhouden!
 
 ### Werking
-De koppeling tussen InformerOnline en ExactOnline werkt erg eenvoudig. De integratie is volledig automatisch en loopt elke 15-30 minuten.
+De koppeling tussen Moneybird en Twinfield werkt erg eenvoudig. De integratie is volledig automatisch en loopt elke 15-30 minuten. Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield. Je bepaalt zelf of je alleen verzonden facturen of alle facturen periodiek overgeheveld wilt hebben. Je bent dus altijd bij met je verkoopboekingen in Twinfield. 
 
-
-Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Informer facturen naar ExactOnline te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
+Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Moneybird facturen naar Twinfield te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
