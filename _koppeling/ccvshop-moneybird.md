@@ -1,19 +1,17 @@
 ---
-title: CCV Shop AFAS koppeling
-image: /images/@stock/ccvshop-afas-koppeling.png
-link_to: /koppeling/ccvshop-afas
+title: CCV Shop Moneybird koppeling
+image: /images/@stock/ccvshop-moneybird-koppeling.png
+link_to: /koppeling/ccvshop-moneybird
 layout: koppeling
 from: ccvshop
-to: afas
+to: moneybird
 logo-from: /images/@stock/ccvshop-koppelingen.png
-logo-to: /images/@stock/afas-koppelingen.png
-from-referral-url: https://www.ccvshop.nl/index.php?Partner=r4awyf0u
-to-referral-url: https://www.afas.nl/ 
+logo-to: /images/@stock/moneybird-koppelingen.png
 
 install-url: https://web.gladior.com/add-ons/ccv-shop-koppeling
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
-excerpt: Verkopen vanuit CCV Shop worden overgeheveld als verkoopboekingen in AFAS Profit. 
+excerpt: Verkopen vanuit CCV Shop worden overgeheveld als verkoopboekingen in moneybird Profit. 
 
 developer: Gladior  
 developer-url: https://web.gladior.com/portal-vervolgpagina/ccv-shop-koppeling
@@ -40,14 +38,14 @@ testimonials:
     author: David White, Designer at Huglab
 ---
 
-Bespaar tijd en geld met de CCV Shop – AFAS Profit koppeling. Door een naadloze aansluiting tussen de twee omgevingen wordt uw bedrijfsvoering een stuk efficiënter. Gegevensuitwisseling vind namelijk vanaf het moment van koppelen automatisch plaats; dit bespaard niet alleen tijd maar voorkomt ook fouten vanwege handmatige invoerwerkzaamheden.
+Bespaar tijd en geld met de CCV Shop – moneybird Profit koppeling. Door een naadloze aansluiting tussen de twee omgevingen wordt uw bedrijfsvoering een stuk efficiënter. Gegevensuitwisseling vind namelijk vanaf het moment van koppelen automatisch plaats; dit bespaard niet alleen tijd maar voorkomt ook fouten vanwege handmatige invoerwerkzaamheden.
 
 ### Voordelen van de koppeling:
 * Vergroot de efficiëntie van je bedrijfsvoering;
 * De standaard koppeling staat al binnen een aantal dagen live;
-* Een in AFAS gespecialiseerde consulent richt de koppeling in op basis van je wensen;
-* Gladior is officieel AFAS web partner;
-* De koppeling wordt apart van je CCV shop en AFAS Profit gehost, hierdoor functioneert deze ook wanneer één van deze systemen offline is;
+* Een in moneybird gespecialiseerde consulent richt de koppeling in op basis van je wensen;
+* Gladior is officieel moneybird web partner;
+* De koppeling wordt apart van je CCV shop en moneybird Profit gehost, hierdoor functioneert deze ook wanneer één van deze systemen offline is;
 * Al sinds 1999 ontwikkeld Gladior innovatieve online concepten. 
 
 ### Over Gladior
