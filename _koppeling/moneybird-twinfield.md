@@ -18,6 +18,7 @@ excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboeking
 developer: Combidesk  
 developer-url: https://combidesk.com
 price-per-month: 12
+price-per-year: 120
 trial-days: 30
 
 manual-url: https://help.combidesk.com/installatiehandleidingen/moneybird/installatiehandleiding-moneybird-twinfield-koppeling
