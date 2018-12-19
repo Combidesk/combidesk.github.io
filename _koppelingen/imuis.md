@@ -1,7 +1,9 @@
 ---
-image: /images/@stock/muis-koppelingen.png
 title: iMUIS Online koppelingen
-link_to: /koppelingen/imuis
+key: muis
+image: /images/@stock/muis-koppelingen.png
+link_to: /koppelingen/muis
 klass: boekhoud
 layout: koppelingen
+referral-url:
 ---

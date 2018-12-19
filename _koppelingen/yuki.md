@@ -1,8 +1,9 @@
 ---
-image: /images/@stock/yuki-koppelingen.png
 title: Yuki koppelingen
+key: yuki
+image: /images/@stock/yuki-koppelingen.png
 link_to: /koppelingen/yuki
-klass: boekhoud
+klass: boekhoud 
 layout: koppelingen
-publish: false
+referral-url:
 ---
