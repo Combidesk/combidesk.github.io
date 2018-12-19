@@ -5,10 +5,6 @@ link_to: /koppeling/ccvshop-afas
 layout: koppeling
 from: ccvshop
 to: afas
-logo-from: /images/@stock/ccvshop-koppelingen.png
-logo-to: /images/@stock/afas-koppelingen.png
-from-referral-url: https://www.ccvshop.nl/index.php?Partner=r4awyf0u
-to-referral-url: https://www.afas.nl/ 
 
 install-url: https://web.gladior.com/add-ons/ccv-shop-koppeling
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
@@ -30,14 +26,6 @@ screenshots:
     - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
 
-    
-testimonials:
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
-  - quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-    author: David White, Designer at Huglab
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
 ---
 
 Bespaar tijd en geld met de CCV Shop – AFAS Profit koppeling. Door een naadloze aansluiting tussen de twee omgevingen wordt uw bedrijfsvoering een stuk efficiënter. Gegevensuitwisseling vind namelijk vanaf het moment van koppelen automatisch plaats; dit bespaard niet alleen tijd maar voorkomt ook fouten vanwege handmatige invoerwerkzaamheden.
