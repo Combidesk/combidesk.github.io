@@ -49,16 +49,6 @@ section_id: koppelingen
         <img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/>+<img class="logo-small" src="{{page.logo-to}}"/><br/>
       </div> -->
   </div>
-  <!--<div class='four spacing'></div>-->
-  <!-- <div class="row">
-  {% for payoff in page.payoffs %}
-  <div class="large-4 columns">
-    <div class="margin-bottom-10"><img src="{{ payoff.image }}"/></div>
-    <div class="centered-text"><h3>{{ payoff.title }}</h3></div>
-    <div class="centered-text">{{ payoff.description }}</div>
-  </div>
-  {% endfor %}
-  </div> -->
 
   <div class='four spacing'></div>
 
@@ -126,21 +116,8 @@ section_id: koppelingen
     {% endfor %}
   </div>
 </div>
-<!-- <div class='full parallax' style='background-image: url(/images/@stock/portfolio-header-bg.jpg); color: #fff;'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% capture title%}
-      {{ page.title }}
-      {% endcapture %}
-      {% include section-header.html title=title tagline="Have a look at our works" color="#fff" class="big" %}
-    </div>
-  </div>
-  <div class='four spacing'></div>
-</div>
 
--->
-
-<div class='full'>
+<!--<div class='full'>-->
   <!--<div class='row'>-->
   <!--<div class='large-12 columns'>-->
   <!--<div class='mod modBoxedSlider'>-->
@@ -155,19 +132,21 @@ section_id: koppelingen
   <!--</div>-->
   <!--</div>-->
   <!--</div>-->
-</div>
+<!--</div>-->
+
 
 <div class='full'>
+  <div class='two spacing'></div>
   <div class='row'>
-    <div class='large-12 columns'>
-      <div class='two spacing'></div>
+    <div class='large-12 columns centered-text'>
       <a class='button {{ button.klass }}' style="margin-bottom:center;" href='{{ page.install-url }}' target="_blank">Probeer
         deze koppeling {{ page.trial-days}} dagen gratis</a>
     </div>
   </div>
+  <div class='two spacing'></div>
 </div>
 
-<div class='four spacing'></div>
+<div class='two spacing'></div>
 
 
 {% include testimonials.html %}

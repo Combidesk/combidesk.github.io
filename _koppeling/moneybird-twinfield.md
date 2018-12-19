@@ -18,17 +18,6 @@ developer-url: https://combidesk.com
 price-per-month: 12
 trial-days: 30
 
-payoffs:
-    - title: Payoff 1
-      image: /images/@stock/demo-1.png
-      description: Lorem ipsum bla bla bla
-    - title: Payoff 2
-      image: /images/@stock/demo-2.png
-      description: Lorem ipsum bla bla bla
-    - title: Payoff 3
-      image: /images/@stock/demo-3.png
-      description: Lorem ipsum bla bla bla
-      
 screenshots:
     - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
@@ -37,14 +26,6 @@ screenshots:
     - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
 
-    
-testimonials:
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
-  - quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-    author: David White, Designer at Huglab
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
 ---
 
 Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa
