@@ -23,17 +23,6 @@ trial-days: 30
 manual-url: https://help.combidesk.com/installatiehandleidingen/installatiehandleiding-moneybird-afas-koppeling
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
-
-payoffs:
-    - title: Payoff 1
-      image: /images/@stock/demo-1.png
-      description: Lorem ipsum bla bla bla
-    - title: Payoff 2
-      image: /images/@stock/demo-2.png
-      description: Lorem ipsum bla bla bla
-    - title: Payoff 3
-      image: /images/@stock/demo-3.png
-      description: Lorem ipsum bla bla bla
       
 screenshots:
     - image: /images/@stock/demo-1.png

@@ -7,32 +7,24 @@ from: moneybird
 to: twinfield
 logo-from: /images/@stock/moneybird-koppelingen.png
 logo-to: /images/@stock/twinfield-koppelingen.png
+from-referral-url: https://www.moneybird.nl/?referrer=3eab6305d7
+to-referral-url: https://taxnl.wolterskluwer.com/prijzen/boekhoudsoftware/probeer-gratis/  
 
 install-url: https://combidesk.com/integration/moneybird-twinfield
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
-excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield.  
+excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield. 
 
 developer: Combidesk  
 developer-url: https://combidesk.com
 price-per-month: 12
 trial-days: 30
 
-payoffs:
-    - title: Payoff 1
-      image: /images/@stock/demo-1.png
-      description: Lorem ipsum bla bla bla
-    - title: Payoff 2
-      image: /images/@stock/demo-2.png
-      description: Lorem ipsum bla bla bla
-    - title: Payoff 3
-      image: /images/@stock/demo-3.png
-      description: Lorem ipsum bla bla bla
+manual-url: https://help.combidesk.com/installatiehandleidingen/moneybird/installatiehandleiding-moneybird-twinfield-koppeling
+privacy-url: https://combidesk.com/privacy
+support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/demo-1.png
-    - image: /images/@stock/demo-1.png
-    - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
@@ -47,27 +39,11 @@ testimonials:
     author: David White, Designer at Huglab
 ---
 
-Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa
-dasjkdasjdklas
-asd
-asdas
-dasdas
+### Jouw adviseur gebruikt Exact?
+Gebruikt jouw adviseur Exact? En jij wilt graag Informer blijven gebruiken? Dat kan nu eindelijk! Koppel je Informer account aan het Exact account van je adviseur en importeer zo alle verkoopfacturen vanuit Informer naar Exact. Op die manier kunnen zowel jij als je adviseur op een efficiënte manier je boekhouding bijhouden!
 
-dasdasdd adasdklasdjklasd  adas dasd peeoweweqenkasdan Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa
-dasjkdasjdklas
-asd
-asdas
-dasdas
-dasdasdd adasdklasdjklasd  adas dasd peeoweweqenkasdan Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa
+### Werking
+De koppeling tussen InformerOnline en ExactOnline werkt erg eenvoudig. De integratie is volledig automatisch en loopt elke 15-30 minuten.
 
-dasjkdasjdklas
-asd
-asdas
-dasdas
-dasdasdd adasdklasdjklasd  adas dasd peeoweweqenkasdan Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa Lorem ipsum bla dis odsa
-dasjkdasjdklas
-asd
 
-asdas
-dasdas
-dasdasdd adasdklasdjklasd  adas dasd peeoweweqenkasdan 
+Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Informer facturen naar ExactOnline te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
