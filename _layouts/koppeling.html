@@ -4,7 +4,8 @@ title: Koppeling
 section_id: koppelingen
 ---
 
-<div class='full'>
+  <div class='full'>
+      <div class='four spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
       <div class="centered-text">
@@ -16,23 +17,23 @@ section_id: koppelingen
       <div>
         <h1 class='centered-text'>{{ page.title }}</h1>
       </div>
-      <div class="centered-text">
+      <!-- <div class="centered-text">
         <i>Ontwikkeld door <a href="{{ page.developer-url }}" target="_blank">{{ page.developer }}</a></i>
-      </div>
+      </div> -->
       <div class='spacing'></div>
       <div class="large-12 columns centered-text">
         {{ page.excerpt }}
       </div>
       <div class='four spacing'></div>
       <div class="large-12 columns centered-text">
-        <a class='button {{ button.klass }}' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer
-          deze koppeling</a>
-        <div class="centered-text">{{ page.trial-days}} dagen gratis uitproberen</div>
-      </div>
-      <div class='four spacing'></div>
+        <a class='button {{ button.klass }}' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer {{ page.trial-days}}
+          dagen gratis</a>
+        <!-- <div class="centered-text">{{ page.trial-days}} dagen gratis uitproberen</div>
+      </div> -->
       <div class="large-12 columns">
-        <div class="centered-text" style="vertical-align: center" font color="#02C8A7"><sup>&euro;</sup><span
-            style="font-size:30px;"> {{ page.price-per-month }}</span> per maand
+        <div class="centered-text" style="vertical-align: center" font color="#02C8A7">Daarna <sup>&euro;</sup><span
+            style="font-size:20px;">{{ page.price-per-month }}</span> per maand
+            <div class='four spacing'></div>
         </div>
       </div>
     </div>
@@ -49,8 +50,8 @@ section_id: koppelingen
         <img alt="{{page.title}}" class="logo-small" src="{{page.logo-from}}"/>+<img class="logo-small" src="{{page.logo-to}}"/><br/>
       </div> -->
   </div>
-
   <div class='four spacing'></div>
+  <div class='four spacing' style='background-color: #ffffff'></div>
 
   <div class="row">
     <div class="medium-3 large-3 columns">
@@ -73,6 +74,7 @@ section_id: koppelingen
     </div>
   </div>
 
+  <div class='four spacing'></div>
   <div class='four spacing'></div>
   <div class="row">
     <div class="large-7 columns">
