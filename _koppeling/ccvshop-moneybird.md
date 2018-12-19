@@ -5,52 +5,50 @@ link_to: /koppeling/ccvshop-moneybird
 layout: koppeling
 from: ccvshop
 to: moneybird
-logo-from: /images/@stock/ccvshop-koppelingen.png
-logo-to: /images/@stock/moneybird-koppelingen.png
 
-install-url: https://web.gladior.com/add-ons/ccv-shop-koppeling
+install-url: https://www.ccvshop.nl/app-store-detail?id=493
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
-excerpt: Verkopen vanuit CCV Shop worden overgeheveld als verkoopboekingen in moneybird Profit. 
+excerpt: Orders vanuit CCV Shop worden overgeheveld als facturen in Moneybird. 
 
-developer: Gladior  
-developer-url: https://web.gladior.com/portal-vervolgpagina/ccv-shop-koppeling
-price-per-month: 40
-price-per-year: 400
+developer: Combidesk  
+developer-url: https://combidesk.com
+price-per-month: 6
+price-per-year: 72
 trial-days: 30
 
-manual-url: https://web.gladior.com/add-ons/ccv-shop-koppeling
+manual-url: https://www.ccvshop.nl/app-store-detail?id=493
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/demo-1.png
-    - image: /images/@stock/demo-1.png
-    - image: /images/@stock/demo-1.png
+    - image: /images/@stock/screenshot-ccvshop-afas-1.png
+    - image: /images/@stock/screenshot-ccvshop-afas-2.gif
+    - image: /images/@stock/screenshot-ccvshop-afas-3.png
 
-    
-testimonials:
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
-  - quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-    author: David White, Designer at Huglab
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
 ---
 
-Bespaar tijd en geld met de CCV Shop – moneybird Profit koppeling. Door een naadloze aansluiting tussen de twee omgevingen wordt uw bedrijfsvoering een stuk efficiënter. Gegevensuitwisseling vind namelijk vanaf het moment van koppelen automatisch plaats; dit bespaard niet alleen tijd maar voorkomt ook fouten vanwege handmatige invoerwerkzaamheden.
+* Wanneer een order de status 'afgerond' en 'order betaald' heeft, wordt er een factuur aangemaakt in Moneybird. Deze factuur krijgt in Moneybird de status 'betaald'.
+* De resultatenrekening en BTW-aangifte worden meteen bijgewerkt.
+* In Moneybird wordt een nieuwe klant automatisch aangemaakt.
+* Bestaande bestellingen worden overgenomen van CCV Shop naar je Moneybird account
+* Bestelinformatie producten (productnaam, aantal, bedrag van de bestelregel en de btw) en verzendkosten worden overgenomen.
+* Kortingen, zowel kortingscodes als webwinkelwagen kortingen worden meegenomen.
+* Je bespaart tijd, werkt efficiënter en verhoogt je werkplezier.
 
-### Voordelen van de koppeling:
-* Vergroot de efficiëntie van je bedrijfsvoering;
-* De standaard koppeling staat al binnen een aantal dagen live;
-* Een in moneybird gespecialiseerde consulent richt de koppeling in op basis van je wensen;
-* Gladior is officieel moneybird web partner;
-* De koppeling wordt apart van je CCV shop en moneybird Profit gehost, hierdoor functioneert deze ook wanneer één van deze systemen offline is;
-* Al sinds 1999 ontwikkeld Gladior innovatieve online concepten. 
+---
 
-### Over Gladior
-Gladior heeft een unieke koppeling ontwikkeld gebaseerd op de CCV Shop technologie. Met het koppelen van je webshop aan AFAS Profit worden je shop en de werkzaamheden die daaruit voortkomen in één systeem ondergebracht. Er ontstaat overzicht en tijdbesparing, dit is tijd die je waarschijnlijk veel liever wilt besteden aan je core business! 
+### Hoe te installeren?
+* Stap 1: klik op 'Installeren' en bij stap 1 op 'verder' (je gaat naar een nieuw tabblad)
+* Stap 2: klik op 'verbind je Moneybird account'
+* Stap 3: voer hier je Moneybird gebruikersnaam en wachtwoord in en klik op 'vraag goedkeuring aan Moneybird' (je wordt tijdelijk naar Moneybird gestuurd)
+* Stap 4: vink aan 'Geef Combidesk toegang tot mijn Moneybird account' en klik op 'opslaan'
+* Stap 5: selecteer eventueel een profiel en klik op 'installeer koppeling'
 
-__Wat kan Gladior betekenen?__ 
+--
 
-Hebben wij je interesse gewekt voor de mogelijkheden voor een koppeling tussen je CCV Shop en AFAS Profit? In dat geval kun je voor meer informatie of persoonlijk contact met één van onze specialisten het contactformulier invullen of bellen met 053 850 7090.
+### Opmerkingen
+* Deze koppeling wordt iedere 15-30 minuten (meestal eerder) gesynchroniseerd.
+* Afgeronde orders worden overgezet vanaf het moment van installatie, orderhistorie kan automatisch worden meegenomen.
+* Klanten worden op basis van een uniek e-mailadres aangemaakt in Moneybird. Wijzigingen in gegevens van klanten in uw CCV Shop worden vooralsnog niet automatisch bijgewerkt in Moneybird en omgekeerd.
+* Gebruik Moneybird als betaalbaar en eenvoudig boekhoudpakket. Wij adviseren om de facturatie vanuit CCV Shop te laten verlopen.
