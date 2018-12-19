@@ -1,9 +1,9 @@
 ---
-title: CCV Shop AFAS koppeling
+title: Lightspeed AFAS koppeling
 image: /images/@stock/ccvshop-afas-koppeling.png
 link_to: /koppeling/ccvshop-afas
 layout: koppeling
-from: ccvshop
+from: lightspeed
 to: afas
 logo-from: /images/@stock/ccvshop-koppelingen.png
 logo-to: /images/@stock/afas-koppelingen.png
