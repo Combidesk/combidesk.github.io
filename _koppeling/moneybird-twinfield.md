@@ -5,10 +5,6 @@ link_to: /koppeling/moneybird-twinfield
 layout: koppeling
 from: moneybird
 to: twinfield
-logo-from: /images/@stock/moneybird-koppelingen.png
-logo-to: /images/@stock/twinfield-koppelingen.png
-from-referral-url: https://www.moneybird.nl/?referrer=3eab6305d7
-to-referral-url: https://taxnl.wolterskluwer.com/prijzen/boekhoudsoftware/probeer-gratis/  
 
 install-url: https://combidesk.com/integration/moneybird-twinfield
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s

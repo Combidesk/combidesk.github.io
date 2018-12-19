@@ -3,16 +3,21 @@ layout: default
 title: Koppeling
 section_id: koppelingen
 ---
+{% assign fromapp = site.koppelingen | where:"key", page.from | first %}
+{% assign toapp = site.koppelingen | where:"key", page.to | first %}
 
   <div class='full'>
       <div class='four spacing'></div>
   <div class='row'>
     <div class='large-12 columns'>
       <div class="centered-text">
-        <a href="{{ page.from-referral-url }}" target="_blank"><img alt="{{page.title}}" class="logo-small"
-                                                                    src="{{page.logo-from}}"/></a><i
-          class="fa fa-plus-square" aria-hidden="true"></i><a href="{{ page.to-referral-url }}" target="_blank"><img
-          class="logo-small" src="{{page.logo-to}}"/></a><br/>
+        <a href="{{ fromapp.referral-url }}" target="_blank">
+          <img alt="{{page.title}}" class="logo-small" src="{{fromapp.image}}"/>
+        </a>
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+        <a href="{{ toapp.referral-url }}" target="_blank">
+          <img class="logo-small" src="{{toapp.image}}"/>
+        </a><br/>
       </div>
       <div>
         <h1 class='centered-text'>{{ page.title }}</h1>
@@ -97,11 +102,11 @@ section_id: koppelingen
       <br>
       <h2>Accounts</h2>
       Om deze koppeling te kunnen gebruiken heb je een account nodig van onderstaande softwarepakketten.
-      <a href="{{ page.from-referral-url }}" target="_blank"><img alt="{{page.title}}" class="logo-small"
-                                                                  src="{{page.logo-from}}"/></a><i
-        class="fa fa-plus-square" aria-hidden="true"></i><a href="{{ page.to-referral-url }}" target="_blank"><img
-        class="logo-small" src="{{page.logo-to}}"/></a><br/>
-      <br></br>
+      <a href="{{ fromapp.referral-url }}" target="_blank"><img alt="{{page.title}}" class="logo-small"
+                                                                  src="{{fromapp.image}}"/></a><i
+        class="fa fa-plus-square" aria-hidden="true"></i><a href="{{ toapp.referral-url }}" target="_blank"><img
+        class="logo-small" src="{{toapp.image}}"/></a><br/>
+      <br/>
     </div>
   </div>
   <div class='four spacing'></div>
