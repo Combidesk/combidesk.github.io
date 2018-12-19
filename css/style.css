@@ -886,7 +886,7 @@ ul.shortcode-list i {
   transition-duration: 0.2s;
 }
 .contain-to-grid .title-area img, .contain-to-grid .title-area li img, .contain-to-grid .title-area a img {
-  width: 100%;
+  width: 50%;
   -moz-transition-property: all;
   -o-transition-property: all;
   -webkit-transition-property: all;
@@ -931,8 +931,9 @@ ul.shortcode-list i {
   height: 60px;
   line-height: 60px;
 }
+
 .f-topbar-fixed.shrink .top-bar .title-area img, .f-topbar-fixed.shrink .top-bar .title-area li img, .f-topbar-fixed.shrink .top-bar .title-area a img {
-  width: 70%;
+  /*width: 40%;*/
 }
 
 .contain-to-grid.fullwidth .top-bar {
