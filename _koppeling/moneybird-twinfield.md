@@ -11,7 +11,7 @@ logo-to: /images/@stock/twinfield-koppelingen.png
 install-url: https://combidesk.com/integration/moneybird-twinfield
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
-excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield. U bepaalt zelf of u alleen verzonden facturen of alle facturen periodiek overgeheveld wilt hebben. Wij synchroniseren iedere 30 minuten dus u bent altijd bij met uw verkoopboekingen in Twinfield.  
+excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield.  
 
 developer: Combidesk  
 developer-url: https://combidesk.com
