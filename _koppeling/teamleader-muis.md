@@ -48,3 +48,4 @@ Wij ontwikkelen onze producten zelf en kunnen hierdoor direct inspelen op nieuwe
 * BTW tarieven kunnen worden gekoppeld aan verschillende grootboekrekeningen in iMUIS Online.
 * Grootboekrekeningen worden naar iMUIS Online meegegeven. Voorwaarde is dat de grootboekrekening ook in iMUIS Online beschikbaar dient te zijn.
 * Betaalstatussen: wanneer een boeking in iMUIS Online is betaald, krijgt de bijbehorende factuur in Teamleader de status 'Betaald'. In combinatie met de bestaande bankkoppelingen in iMUIS Online krijg je een volledig gesloten en geautomatiseerde facturatie.
+* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar iMUIS Online te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.

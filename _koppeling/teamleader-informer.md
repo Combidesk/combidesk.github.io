@@ -44,4 +44,4 @@ Met InformerOnline kunnen ZZP'ers en ondernemers in het kleinbedrijf eenvoudig e
 * BTW tarieven kunnen worden gekoppeld aan verschillende grootboekrekeningen in InformerOnline.
 * Facturen uit Teamleader worden geboekt als facturen in InformerOnline.
 * Met onze Aflettermodule voor Teamleader behoort handmatig afletteren tot de verleden tijd. Wanneer een factuur in InformerOnline is betaald, krijgt de bijbehorende factuur in Teamleader de status 'Betaald'. In combinatie met de bestaande bankkoppelingen in InformerOnline krijg je een volledig gesloten en geautomatiseerde facturatie.
-​
+* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar InformerOnline te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.

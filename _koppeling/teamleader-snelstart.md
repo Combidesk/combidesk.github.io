@@ -32,9 +32,9 @@ Wij luisteren naar ondernemers. Horen wat zij willen. Maken waar zij behoefte aa
 ​
 ### Waarom SnelStart?
 
-Overal online factureren, handig bonnetjes verwerken, 24/7 inzichtelijk en beschikbaar
-Factureren, bankafschriften inlezen, btw- en ICP-aangifte koppeling webshop en kassa
-Slim samenwerken met klanten, online meekijken, efficiënte tijdsbesteding
+* Overal online factureren, handig bonnetjes verwerken, 24/7 inzichtelijk en beschikbaar
+* Factureren, bankafschriften inlezen, btw- en ICP-aangifte koppeling webshop en kassa
+* Slim samenwerken met klanten, online meekijken, efficiënte tijdsbesteding
 
 ​
 ### Voordelen van de SnelStart koppeling:
@@ -44,4 +44,4 @@ Slim samenwerken met klanten, online meekijken, efficiënte tijdsbesteding
 * BTW tarieven kunnen worden gekoppeld aan verschillende grootboekrekeningen in SnelStart.
 * Facturen uit Teamleader worden geboekt als facturen in SnelStart.
 * Met onze Aflettermodule voor Teamleader behoort handmatig afletteren tot de verleden tijd. Wanneer een factuur in SnelStart is betaald, krijgt de bijbehorende factuur in Teamleader de status 'Betaald'. In combinatie met de bestaande bankkoppelingen in SnelStart krijg je een volledig gesloten en geautomatiseerde facturatie.
-* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Moneybird facturen naar Twinfield te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
+* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar SnelStart te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.

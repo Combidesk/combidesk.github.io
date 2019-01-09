@@ -45,3 +45,4 @@ Dankzij de koppeling met Teamleader worden financiële gegevens automatisch gesy
 * BTW tarieven kunnen worden gekoppeld aan verschillende grootboekrekeningen in Reeleezee.
 * Nieuwe en bestaande facturen uit Teamleader worden ieder kwartier automatisch geboekt in Reeleezee.
 * Met onze Aflettermodule voor Teamleader behoort handmatig afletteren tot de verleden tijd. Wanneer een boeking in Reeleezee is betaald, krijgt de bijbehorende factuur in Teamleader de status 'Betaald'. In combinatie met de bestaande bankkoppelingen in Reeleezee krijg je een volledig gesloten en geautomatiseerde facturatie.
+* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar Reeleezee te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.

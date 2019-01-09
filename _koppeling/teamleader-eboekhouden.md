@@ -46,4 +46,5 @@ Nog geen e-Boekhouden.nl account? Klik [hier](https://dt51.net/c/?si=8677&li=146
 * BTW tarieven kunnen worden gekoppeld aan verschillende grootboekrekeningen in e-Boekhouden.nl.
 * Facturen uit Teamleader worden geboekt als mutatie in e-Boekhouden.nl.
 * Met onze Aflettermodule voor Teamleader behoort handmatig afletteren tot de verleden tijd. Wanneer een mutatie in e-Boekhouden.nl is betaald, krijgt de bijbehorende factuur in Teamleader de status 'Betaald'. In combinatie met de bestaande bankkoppelingen in e-Boekhouden.nl krijg je een volledig gesloten en geautomatiseerde facturatie.
+* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar e-Boekhouden.nl te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
 ​

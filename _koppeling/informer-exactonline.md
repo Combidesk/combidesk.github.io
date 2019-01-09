@@ -1,25 +1,22 @@
 ---
-title: Informer ExactOnline koppeling
+title: InformerOnline ExactOnline koppeling
 link_to: /koppeling/informer-exactonline
 layout: koppeling
 from: informer
 to: exactonline
-logo-from: /images/@stock/informer-koppelingen.png
-logo-to: /images/@stock/exactonline-koppelingen.png
-from-referral-url: https://secure.informer.eu/register/omysW211x9b9jNWd4q2mExkXhQ6OdXp7sTouN8at/YToxOntzOjEyOiJ1dG1fY2FtcGFpZ24iO3M6MDoiIjt9/
-to-referral-url: https://www.exact.com/nl/exact-online/prijzen/proefabonnement/ 
 
 install-url: https://combidesk.com/integration/informer-exactonline
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
-excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in Twinfield. 
+excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in ExactOnline 
 
 developer: Combidesk  
 developer-url: https://combidesk.com
-price-per-month: 70
+price-per-month: 12
+price-per-year: 120
 trial-days: 30
 
-manual-url: https://help.combidesk.com/installatiehandleidingen/installatiehandleiding-moneybird-afas-koppeling
+manual-url: 
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
@@ -28,18 +25,10 @@ screenshots:
     - image: /images/@stock/demo-1.png
     - image: /images/@stock/demo-1.png
 
-    
-testimonials:
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
-  - quote: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-    author: David White, Designer at Huglab
-  - quote: Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est.
-    author: David White, Designer at Huglab
 ---
 
 ### Jouw adviseur gebruikt Exact?
-Gebruikt jouw adviseur Exact? En jij wilt graag Informer blijven gebruiken? Dat kan nu eindelijk! Koppel je Informer account aan het Exact account van je adviseur en importeer zo alle verkoopfacturen vanuit Informer naar Exact. Op die manier kunnen zowel jij als je adviseur op een efficiënte manier je boekhouding bijhouden!
+Gebruikt jouw adviseur Exact? En jij wilt graag InformerOnline blijven gebruiken? Dat kan nu eindelijk! Koppel je Informer account aan het Exact account van je adviseur en importeer zo alle verkoopfacturen vanuit Informer naar Exact. Op die manier kunnen zowel jij als je adviseur op een efficiënte manier je boekhouding bijhouden!
 
 ### Werking
 De koppeling tussen InformerOnline en ExactOnline werkt erg eenvoudig. De integratie is volledig automatisch en loopt elke 15-30 minuten.
