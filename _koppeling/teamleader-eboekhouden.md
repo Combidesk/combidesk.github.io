@@ -1,6 +1,5 @@
 ---
 title: Teamleader e-Boekhouden koppeling
-image: /images/@stock/e-boekhouden-koppelingen.png
 link_to: /koppeling/teamleader-e-boekhouden
 from: teamleader
 to: e-boekhouden

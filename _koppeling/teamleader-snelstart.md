@@ -1,6 +1,5 @@
 ---
 title: Teamleader SnelStart koppeling
-image: /images/@stock/snelstart-koppelingen.png
 link_to: /koppeling/teamleader-snelstart
 from: teamleader
 to: snelstart

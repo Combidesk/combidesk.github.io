@@ -1,6 +1,5 @@
 ---
 title: Teamleader iMUIS Online koppeling
-image: /images/@stock/muis-koppelingen.png
 link_to: /koppeling/teamleader-muis
 from: teamleader
 to: muis

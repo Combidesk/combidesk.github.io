@@ -1,6 +1,5 @@
 ---
 title: Informer ExactOnline koppeling
-image: /images/@stock/informer-exactonline-koppeling.png
 link_to: /koppeling/informer-exactonline
 layout: koppeling
 from: informer
