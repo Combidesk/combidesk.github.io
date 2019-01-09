@@ -1,6 +1,5 @@
 ---
 title: CCV Shop AFAS koppeling
-image: /images/@stock/ccvshop-afas-koppeling.png
 link_to: /koppeling/ccvshop-afas
 layout: koppeling
 from: ccvshop

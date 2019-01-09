@@ -1,6 +1,5 @@
 ---
 title: Moneybird ExactOnline koppeling
-image: /images/@stock/moneybird-exactonline-koppeling.png
 link_to: /koppeling/moneybird-exactonline
 from: moneybird
 to: exactonline

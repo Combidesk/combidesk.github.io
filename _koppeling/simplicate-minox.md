@@ -1,6 +1,5 @@
 ---
 title: Simplicate Minox koppeling
-image: /images/@stock/minox-koppelingen.png
 link_to: /koppeling/simplicate-minox
 from: simplicate
 to: minox

@@ -1,6 +1,5 @@
 ---
 title: Lightspeed AFAS koppeling
-image: /images/@stock/lightspeed-afas-koppeling.png
 link_to: /koppeling/lightspeed-afas
 layout: koppeling
 from: lightspeed

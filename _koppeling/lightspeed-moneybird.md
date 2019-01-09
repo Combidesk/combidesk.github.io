@@ -1,6 +1,5 @@
 ---
 title: Lightspeed Moneybird koppeling
-image: /images/@stock/lightspeed-moneybird-koppeling.png
 link_to: /koppeling/lightspeed-moneybird
 layout: koppeling
 from: lightspeed

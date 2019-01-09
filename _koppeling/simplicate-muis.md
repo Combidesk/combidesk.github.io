@@ -1,6 +1,5 @@
 ---
 title: Simplicate iMUIS Online koppeling
-image: /images/@stock/muis-koppelingen.png
 link_to: /koppeling/simplicate-muis
 from: simplicate
 to: muis

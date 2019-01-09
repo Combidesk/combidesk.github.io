@@ -1,6 +1,5 @@
 ---
 title: Simplicate Moneybird koppeling
-image: /images/@stock/simplicate-moneybird-koppeling.png
 link_to: /koppeling/simplicate-moneybird
 from: simplicate
 to: moneybird

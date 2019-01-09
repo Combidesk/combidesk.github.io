@@ -1,6 +1,5 @@
 ---
 title: Teamleader Reeleezee koppeling
-image: /images/@stock/reeleezee-koppelingen.png
 link_to: /koppeling/teamleader-reeleezee
 from: teamleader
 to: reeleezee

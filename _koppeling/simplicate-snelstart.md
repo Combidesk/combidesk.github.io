@@ -1,6 +1,5 @@
 ---
 title: Simplicate SnelStart koppeling
-image: /images/@stock/snelstart-koppelingen.png
 link_to: /koppeling/simplicate-snelstart
 from: simplicate
 to: snelstart
