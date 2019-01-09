@@ -5,5 +5,5 @@ image: /images/@stock/Logos/muis-koppelingen.png
 link_to: /koppelingen/muis
 klass: boekhoud
 layout: koppelingen
-referral-url:
+referral-url: https://www.muis.nl/demo-aanvraag/
 ---
