@@ -1,7 +1,7 @@
 ---
 title: e-Boekhouden.nl koppelingen
 key: e-boekhouden
-image: /images/@stock/e-boekhouden-koppelingen.png
+image: /images/@stock/Logos/e-boekhouden-koppelingen.png
 link_to: /koppelingen/e-boekhouden
 klass: boekhoud
 layout: koppelingen

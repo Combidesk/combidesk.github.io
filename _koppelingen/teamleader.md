@@ -1,7 +1,7 @@
 ---
 title: Teamleader koppelingen
 key: teamleader
-image: /images/@stock/teamleader-koppelingen.png
+image: /images/@stock/Logos/teamleader-koppelingen.png
 link_to: /koppelingen/teamleader
 klass: crm
 layout: koppelingen

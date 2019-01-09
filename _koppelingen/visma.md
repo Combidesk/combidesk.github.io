@@ -1,7 +1,7 @@
 ---
 title: Visma koppelingen
 key: visma
-image: /images/@stock/visma-koppelingen.png
+image: /images/@stock/Logos/visma-koppelingen.png
 link_to: /koppelingen/visma
 klass: boekhoud 
 layout: koppelingen

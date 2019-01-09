@@ -1,7 +1,7 @@
 ---
 title: CCV Shop koppelingen
 key: ccvshop
-image: /images/@stock/ccvshop-koppelingen.png
+image: /images/@stock/Logos/ccvshop-koppelingen.png
 link_to: /koppelingen/ccvshop
 klass: webshop
 layout: koppelingen

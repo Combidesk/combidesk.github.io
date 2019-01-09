@@ -1,7 +1,7 @@
 --- 
 title: Twinfield koppelingen
 key: twinfield
-image: /images/@stock/twinfield-koppelingen.png
+image: /images/@stock/Logos/twinfield-koppelingen.png
 link_to: /koppelingen/twinfield
 klass: boekhoud
 layout: koppelingen

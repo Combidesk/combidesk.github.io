@@ -1,7 +1,7 @@
 ---
 title: Simplicate koppelingen
 key: simplicate
-image: /images/@stock/simplicate-koppelingen.png
+image: /images/@stock/Logos/simplicate-koppelingen.png
 link_to: /koppelingen/simplicate
 klass: crm
 layout: koppelingen

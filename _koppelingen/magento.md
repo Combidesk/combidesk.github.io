@@ -1,7 +1,7 @@
 ---
 title: Magento koppelingen
 key: magento
-image: /images/@stock/magento-koppelingen.png
+image: /images/@stock/Logos/magento-koppelingen.png
 link_to: /koppelingen/magento
 klass: webshop
 layout: koppelingen
