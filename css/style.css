@@ -3834,6 +3834,22 @@ img.logo-small {
   height:96px;
 }
 
+img.logo-medium {
+  width:192px;
+  height:192px;
+}
+
 .margin-bottom-10 {
   margin-bottom: 10px;
+}
+
+.koppelingen .plus-icon {
+  color: black;
+  font-size: 2em;
+}
+
+.koppelingen .koppeling {
+  margin:10px;
+  background-color:white;
+  padding-bottom:10px;
 }

@@ -7,7 +7,7 @@
 
 {% include header.html %}
 
-<div id='main' role='main'>
+<div id='main' role='main' class="koppelingen">
   <div class='full parallax' style='background-image: url(images/@stock/portfolio-header-bg.png); color: #fff;'>
     <div class='row'>
       <div class='large-12 columns'>
@@ -44,17 +44,24 @@
 
       {% for koppeling in site.koppeling %}
       {% if koppeling.publish != false and koppeling.from == page.key or koppeling.to == page.key %}
+
+      {% assign fromapp = site.koppelingen | where:"key", koppeling.from | first %}
+      {% assign toapp = site.koppelingen | where:"key", koppeling.to | first %}
+
       <div class="large-6 small-12 columns {{ koppeling.klass }}">
+        <div class="koppeling">
         <a href='{{ koppeling.link_to }}'>
-          <img alt="{{ koppeling.title }}" src="{{ koppeling.image }}"/>
-          <br/><br/>
-          <div>
-            <div class='centered-text'>
-              <h3>{{ koppeling.title }}</h3>
-              <p>{{ koppeling.desc }}</p>
-            </div>
+          <div class="centered-text">
+            <img alt="{{koppeling.title}}" class="logo-medium" src="{{fromapp.image}}"/>
+            <i class="fa fa-plus-square plus-icon" aria-hidden="true"></i>
+            <img alt="{{koppeling.title}}" class="logo-medium" src="{{toapp.image}}"/>
+          </div>
+          <div class='centered-text'>
+            <h3>{{ koppeling.title }}</h3>
+            <p>{{ koppeling.desc }}</p>
           </div>
         </a>
+        </div>
       </div>
       {% endif %}
       {% endfor %}
