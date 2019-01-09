@@ -22,9 +22,9 @@ privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/screenshot-ccvshop-afas-1.png
-    - image: /images/@stock/screenshot-ccvshop-afas-2.gif
-    - image: /images/@stock/screenshot-ccvshop-afas-3.png
+    - image: /images/@stock/screenshot-ccvshop-moneybird-1.png
+    - image: /images/@stock/screenshot-ccvshop-moneybird-2.gif
+    - image: /images/@stock/screenshot-ccvshop-moneybird-3.png
 
 ---
 
