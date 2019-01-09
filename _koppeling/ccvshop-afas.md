@@ -21,9 +21,9 @@ privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/screenshot-lightspeed-afas-1.png
-    - image: /images/@stock/screenshot-lightspeed-afas-2.png
-    - image: /images/@stock/screenshot-lightspeed-afas-3.png
+    - image: /images/@stock/Screenshots/screenshot-lightspeed-afas-1.png
+    - image: /images/@stock/Screenshots/screenshot-lightspeed-afas-2.png
+    - image: /images/@stock/Screenshots/screenshot-lightspeed-afas-3.png
 
 ---
 
