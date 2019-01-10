@@ -27,7 +27,7 @@ screenshots:
 
 ---
 
-Vind je boekhouden ingewikkeld? Profiteer van [Moneybird](https://www.moneybird.nl/?referrer=3eab6305d7) slimmigheidjes en houd met plezier zelf je boekhouding bij. Het boekhoudprogramma Moneybird is er voor iedereen. Ondernemers kiezen voor Moneybird omdat het gebruiksvriendelijk en snel werkt.
+Vind je boekhouden ingewikkeld? Profiteer van [Moneybird](https://www.moneybird.nl/?referrer=3eab6305d7){:target="_blank"} slimmigheidjes en houd met plezier zelf je boekhouding bij. Het boekhoudprogramma Moneybird is er voor iedereen. Ondernemers kiezen voor Moneybird omdat het gebruiksvriendelijk en snel werkt.
 Dankzij de koppeling met Teamleader worden financiële gegevens automatisch gesynchroniseerd met je boekhouding.
 ​
 
@@ -48,4 +48,4 @@ Dankzij de koppeling met Teamleader worden financiële gegevens automatisch gesy
 * Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar Moneybird te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
 
 
-Nog geen account? Maak [hier](https://www.moneybird.nl/?referrer=3eab6305d7) een Moneybird account aan.
+Nog geen account? Maak [hier](https://www.moneybird.nl/?referrer=3eab6305d7){:target="_blank"} een Moneybird account aan.
