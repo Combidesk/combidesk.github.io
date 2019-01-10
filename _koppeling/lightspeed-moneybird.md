@@ -12,7 +12,7 @@ excerpt: Orders vanuit Lightspeed worden automatisch overgeheveld als facturen i
 
 developer: Combidesk  
 developer-url: https://combidesk.com
-price-per-month: 11.50
+price-per-month: "11.50"
 price-per-year: 138
 trial-days: 30
 
