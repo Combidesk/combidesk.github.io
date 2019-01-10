@@ -34,12 +34,15 @@ slides:
 services:
   - icon: shopping-cart
     title: Webshop koppelingen
+    link: /webshop-koppelingen
     desc: Koppel nu je webshop aan je boekhoudpakket. Er zijn boekhoudkoppelingen beschikbaar voor een aantal verschillende webshop platformen.
   - icon: users
     title: CRM koppelingen
+    link: /crm-koppelingen
     desc: Koppel nu je CRM pakket aan je boekhoudpakket en zorg ervoor dat je facturen automatisch in je boekhoudpakket worden geboekt.
   - icon: file-text
     title: Facturatie koppelingen
+    link: /facturatie-koppelingen
     desc: Liever een facturatie pakket gebruiken om je facturen op te maken? Koppel nu je facturatie pakket aan je boekhoudpakket en zorg dat je facturen gesynchroniseerd worden.
 
 milestones:
@@ -203,8 +206,8 @@ milestones:
       {% for service in page.services %}
         <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
           <div class='icon-text-simple'>
-            <i class='fa fa-{{service.icon}}' style="color:#4484CE"></i>
-            <h3>{{service.title}}</h3>
+            <a href="{{service.link}}"><i class='fa fa-{{service.icon}}' style="color:#4484CE"></i>
+            <h3>{{service.title}}</h3></a>
             <p>{{service.desc}}</p>
           </div>
           <div class='two spacing'></div>
