@@ -3,7 +3,7 @@ title: Simplicate iMUIS Online koppeling
 link_to: /koppeling/simplicate-muis
 layout: koppeling
 from: simplicate
-to: imuis
+to: muis
 
 install-url: https://combidesk.com/integration/simplicate-muis
 #video-url: 
