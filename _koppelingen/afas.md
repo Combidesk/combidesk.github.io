@@ -7,5 +7,5 @@ klass: boekhoud
 layout: koppelingen
 referral-url:
 
-excerpt: Met onze AFAS koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze AFAS Profits boekhoudkoppelingen.
+excerpt: Met onze AFAS boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een AFAS Profits koppeling en andere API koppelingen.
 ---

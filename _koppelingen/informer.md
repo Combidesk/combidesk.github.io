@@ -7,5 +7,5 @@ klass: boekhoud facturatie
 layout: koppelingen
 referral-url:
 
-excerpt: Met onze Informer koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Informer boekhoudkoppelingen.
+excerpt: Met onze Informer boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een Informer koppeling en andere API koppelingen.
 ---

@@ -7,5 +7,5 @@ klass: crm
 layout: koppelingen
 referral-url: https://go.teamleader.nl/trial/combidesk
 
-excerpt: Met onze Teamleader koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Teamleader boekhoudkoppelingen.
+excerpt: Met onze Teamleader boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Teamleader koppelingen en andere API koppelingen.
 ---

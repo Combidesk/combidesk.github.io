@@ -7,5 +7,5 @@ klass: boekhoud
 layout: koppelingen
 referral-url: 
 
-excerpt: Met onze Minox koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Minox boekhoudkoppelingen.
+excerpt: Met onze Minox koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een Minox boekhoudkoppeling en andere API koppelingen.
 ---

@@ -7,5 +7,5 @@ klass: webshop
 layout: koppelingen
 referral-url: https://www.ccvshop.nl/index.php?Partner=r4awyf0u 
 
-excerpt: Met onze CCV Shop koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze CCV Shop boekhoudkoppelingen.
+excerpt: Met onze CCV Shop boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een CCV Shop koppeling en andere API koppelingen.
 ---

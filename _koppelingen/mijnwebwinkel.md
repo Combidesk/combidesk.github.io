@@ -7,5 +7,5 @@ klass: webshop
 layout: koppelingen
 referral-url: 
 
-excerpt: Met onze Mijnwebwinkel koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Mijnwebwinkel boekhoudkoppelingen.
+excerpt: Met onze Mijnwebwinkel boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een Mijnwebwinkel koppeling en andere API koppelingen.
 ---

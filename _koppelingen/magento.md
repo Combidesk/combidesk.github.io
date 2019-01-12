@@ -7,5 +7,5 @@ klass: webshop
 layout: koppelingen
 referral-url:
 
-excerpt: Met onze Magento koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Magento boekhoudkoppelingen.
+excerpt: Met onze Magento boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een Magento koppeling en andere API koppelingen.
 ---

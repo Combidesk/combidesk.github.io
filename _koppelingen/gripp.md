@@ -7,5 +7,5 @@ klass:
 layout: koppelingen
 referral-url: 
 
-excerpt: Met onze Gripp koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Gripp boekhoudkoppelingen.
+excerpt: Met onze Gripp boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met een Gripp koppeling en andere API koppelingen.
 ---

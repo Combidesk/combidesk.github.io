@@ -7,5 +7,5 @@ klass:
 layout: koppelingen
 referral-url:
 
-excerpt: Met onze Visma koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Visma boekhoudkoppelingen.
+excerpt: Met onze Visma boekhoudkoppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Visma koppelingen en andere API koppelingen.
 ---
