@@ -1,5 +1,5 @@
 ---
-title: Moneybird ExactOnline koppeling
+title: Moneybird Exact Online koppeling
 link_to: /koppeling/moneybird-exactonline
 layout: koppeling
 from: moneybird
@@ -8,7 +8,7 @@ to: exactonline
 install-url: https://combidesk.com/integration/moneybird-exactonline
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
-excerpt: Verkoopfacturen vanuit Moneybird worden overgeheveld als verkoopboekingen in ExactOnline 
+excerpt: Synchroniseer verkoopfacturen met deze handige Moneybird Exact Online koppeling
 
 developer: Combidesk  
 developer-url: https://combidesk.com
