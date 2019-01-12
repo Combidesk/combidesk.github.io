@@ -6,4 +6,6 @@ link_to: /koppelingen/visma
 klass: 
 layout: koppelingen
 referral-url:
+
+excerpt: Met onze Visma koppelingen is je administratie altijd op orde. Probeer nu! Bespaar veel tijd met onze Visma boekhoudkoppelingen.
 ---
