@@ -3872,3 +3872,15 @@ img.logo-medium {
 .category-color-kassa {
   color: #00C9A7 !important;
 }
+
+@media only screen and (max-width: 480px) {
+    img.logo-medium {
+        width:96px;
+        height:96px;
+    }
+
+    .koppelingen .plus-icon {
+        color: black;
+        font-size: 1em;
+    }
+}
