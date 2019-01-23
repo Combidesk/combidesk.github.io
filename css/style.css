@@ -3856,3 +3856,19 @@ img.logo-medium {
   background-color:white;
   padding-bottom:10px;
 }
+
+.category-color-webshop {
+  color: #F82f3a !important;
+}
+
+.category-color-crm {
+  color: #4082d1 !important;
+}
+
+.category-color-facturatie {
+  color: #FAD100 !important;
+}
+
+.category-color-kassa {
+  color: #00C9A7 !important;
+}
