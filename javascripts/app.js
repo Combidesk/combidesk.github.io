@@ -74,7 +74,7 @@ jQuery(document).foundation();
       submitHandler: function(form) {
         $.ajax({
           type: 'POST',
-          url: 'https://formspree.io/support@combidesk.com', // TODO will be ... support@boekhoudkoppelingen.nl later
+          url: 'https://formspree.io/info@boekhoudkoppelingen.nl',
           data: $(form).serialize(),
           success: function(data) {
             $(form).trigger('reset');
