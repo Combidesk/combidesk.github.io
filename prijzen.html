@@ -5,16 +5,23 @@ section_id: prijzen
 services_left:
   - icon: shopping-cart
     title: Webshop koppelingen
+    link: /webshop-koppelingen
+    color_class: category-color-webshop
     desc: Onze webshopkoppelingen starten vanaf 6 euro per maand. De meeste van onze koppelingen hebben geen limiet op het aantal facturen.
   - icon: users
     title: CRM koppelingen
+    link: /crm-koppelingen
+    color_class: category-color-crm
     desc: De prijzen voor onze CRM koppelingen starten vanaf 12 euro per maand, ongelimiteerd aantal facturen. Betaal je per jaar dan krijg je 2 maanden korting.
 services_right:
   - icon: file-text
     title: Facturatie koppelingen
+    link: /facturatie-koppelingen
+    color_class: category-color-facturatie
     desc: De prijzen voor onze facturatie koppelingen starten vanaf 12 euro per maand, ongelimiteerd aantal facturen. Betaal je per jaar dan krijg je 2 maanden korting.
   - icon: credit-card
     title: Kassa koppelingen
+    color_class: category-color-kassa
     desc: De prijzen voor onze Kassa koppelingen starten vanaf 12 euro per maand, ongelimiteerd aantal facturen. Betaal je per jaar dan krijg je 2 maanden korting.
 ---
 
@@ -34,8 +41,10 @@ services_right:
       {% for service in page.services_left %}
         <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
           <div class='icon-text-simple'>
-            <i class='fa fa-{{service.icon}}'></i>
-            <h3>{{service.title}}</h3>
+            <a href="{{service.link}}">
+              <i class='fa fa-{{service.icon}} {{service.color_class}}'></i>
+              <h3>{{service.title}}</h3>
+            </a>
             <p>{{service.desc}}</p>
           </div>
           <div class='two spacing'></div>
@@ -46,8 +55,10 @@ services_right:
       {% for service in page.services_right %}
         <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
           <div class='icon-text-simple'>
-            <i class='fa fa-{{service.icon}}'></i>
-            <h3>{{service.title}}</h3>
+            <a href="{{service.link}}">
+              <i class='fa fa-{{service.icon}} {{service.color_class}}'></i>
+              <h3>{{service.title}}</h3>
+            </a>
             <p>{{service.desc}}</p>
           </div>
           <div class='two spacing'></div>
