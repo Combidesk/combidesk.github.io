@@ -5,7 +5,7 @@ layout: koppeling
 from: ccvshop
 to: snelstart
 
-install-url: https://www.ccvshop.nl/app-store-detail?id=493
+install-url: https://www.ccvshop.nl/app-store-detail?id=11294
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
 excerpt: Orders vanuit CCV Shop worden overgeheveld als facturen in SnelStart. 
