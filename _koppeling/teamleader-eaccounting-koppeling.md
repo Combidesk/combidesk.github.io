@@ -1,9 +1,9 @@
 ---
-title: Teamleader eAccounting koppeling
+title: Teamleader Visma eAccounting koppeling
 link_to: "/koppeling/teamleader-eaccounting"
 layout: koppeling
 from: teamleader
-to: eaccounting
+to: visma
 install-url: ''
 excerpt: ''
 developer: ''
