@@ -4,7 +4,7 @@ link_to: "/koppeling/teamleader-minox"
 layout: koppeling
 from: teamleader
 to: minox
-install-url: https://marketplace.teamleader.eu/nl/nl/detail/combidesk/moneybird/75f525
+install-url: https://marketplace.teamleader.eu/nl/nl/detail/combidesk/minox/4b9e3b
 excerpt: Verkoopfacturen vanuit Teamleader worden overgeheveld als verkoopfacturen
   in Minox
 developer: Combidesk
