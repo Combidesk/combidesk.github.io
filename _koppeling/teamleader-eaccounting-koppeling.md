@@ -15,6 +15,5 @@ manual-url: ''
 privacy-url: ''
 support-url: ''
 screenshots: []
-published: false
 
 ---
