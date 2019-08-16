@@ -2,10 +2,16 @@
 
 ### Setup
 
+
+Download and Install a Ruby+Devkit version from RubyInstaller Downloads (https://rubyinstaller.org/downloads/). Use default options for installation.
+Run the ridk install step on the last stage of the installation wizard. This is needed for installing gems with native extensions. You can find additional information regarding this in the RubyInstaller Documentation
+Open a new command prompt window from the start menu, so that changes to the PATH environment variable becomes effective. Install Jekyll and Bundler via: gem install jekyll bundler
+Check if Jekyll installed properly: jekyll -v
+
+
 ```bash
-sudo gem install jekyll
-sudo gem install jekyll-paginate
-sudo gem install jekyll-sitemap
+gem install jekyll-paginate
+gem install jekyll-sitemap
 ```
 
 
