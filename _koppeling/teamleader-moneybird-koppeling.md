@@ -19,6 +19,7 @@ screenshots:
 - image: "/images/@stock/demo-1.png"
 - image: "/images/@stock/demo-1.png"
 - image: "/images/@stock/demo-1.png"
+published: false
 
 ---
 Vind je boekhouden ingewikkeld? Profiteer van [Moneybird](https://www.moneybird.nl/?referrer=3eab6305d7){:target="_blank"} slimmigheidjes en houd met plezier zelf je boekhouding bij. Het boekhoudprogramma Moneybird is er voor iedereen. Ondernemers kiezen voor Moneybird omdat het gebruiksvriendelijk en snel werkt.
