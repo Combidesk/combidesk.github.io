@@ -54,3 +54,5 @@ fields:
   - type: file
     name: image
     label: image
+pages:
+- _koppeling/teamleader-eaccounting-koppeling.md
