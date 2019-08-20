@@ -12,7 +12,7 @@ developer-url: https://combidesk.com
 price-per-month: "12"
 price-per-year: "120"
 trial-days: "30"
-manual-url: 
+manual-url: https://help.combidesk.com/en/articles/3138738-installatiehandleiding-teamleader-visma-eaccounting-koppeling
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
 screenshots:
