@@ -16,30 +16,24 @@ manual-url:
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
 screenshots:
-- image: "/images/@stock/demo-1.png"
-- image: "/images/@stock/demo-1.png"
-- image: "/images/@stock/demo-1.png"
+- image: ""
+- image: ""
+- image: ""
 
 ---
-Vind je boekhouden ingewikkeld? Profiteer van [Moneybird](https://www.moneybird.nl/?referrer=3eab6305d7){:target="_blank"} slimmigheidjes en houd met plezier zelf je boekhouding bij. Het boekhoudprogramma Moneybird is er voor iedereen. Ondernemers kiezen voor Moneybird omdat het gebruiksvriendelijk en snel werkt.
-Dankzij de koppeling met Teamleader worden financiële gegevens automatisch gesynchroniseerd met je boekhouding.
+Minox is een het platform voor ondernemers en accountants die de voordelen van online boekhouden willen omarmen. Deze software automatiseert je boekhouding, geeft je relevante inzichten en helpt je efficiënter te ondernemen.
 ​
 
-### Welke voordelen levert Moneybird op?
+### Welke voordelen levert Minox op?
 
-* Moneybird is niet complex zoals een traditioneel boekhoudpakket.
-* Ondernemers kiezen voor Moneybird omdat het gebruiksvriendelijk en snel werkt.
-* De btw percentages uit de facturen en inkomende documenten worden automatisch verwerkt in je btw aangifte.
+* Inkoopfacturen, verkoopfacturen, bonnen en bank om tijd te besparen.
+* Automatiseer overige administratieve taken, zo betaal je openstaande facturen rechtstreeks vanuit de boekhouding met slechts je vingerafdruk.
+* Sla al je document op in het digitale archief van Minox
 ​
 
-### Waarom Moneybird integreren met Teamleader?
+### Waarom Minox integreren met Teamleader?
 
-* Deze integratie is volledig automatisch. De synchronisatie loopt ieder kwartier waardoor je boekhouden nagenoeg real-time is bijgewerkt. Als accountant heb je dan ook een actueel beeld van je cliënt.
-* Teamleader contacten en bedrijven worden automatisch gesynchroniseerd als contact in Moneybird
-* BTW tarieven kunnen worden gekoppeld aan verschillende grootboekrekeningen in Moneybird.
-* Facturen uit Teamleader worden geboekt als facturen in Moneybird.
-* Met onze Aflettermodule voor Teamleader behoort handmatig afletteren tot de verleden tijd. Wanneer een factuur in Moneybird is betaald, krijgt de bijbehorende factuur in Teamleader de status 'Betaald'. In combinatie met de bestaande bankkoppelingen in Moneybird krijg je een volledig gesloten en geautomatiseerde facturatie.
-* Daarnaast kan er een eenmalige export worden uitgevoerd om bestaande Teamleader facturen naar Moneybird te synchroniseren. Dit kan vanaf het begin van een maand, dit boekjaar of vanaf het begin van een kwartaal. Ook worden relaties en grootboekrekeningen automatisch gesynchroniseerd.
+* Verkoopfacturen vanuit Teamleader worden automatisch geboekt in Minox om tijd en geld te besparen.
+* Minox is gekoppeld met je bank. Als er een betaling binnenkomt wordt de openstaande postenlijst in Teamleader bijgewerkt zodat er geen automatische herinneringen meer hoeven te worden verstuurd.
 
-
-Nog geen account? Maak [hier](https://www.moneybird.nl/?referrer=3eab6305d7){:target="_blank"} een Moneybird account aan.
+Nog geen account? Maak [hier](https://www.minox.nl/start-gratis-proef/){:target="_blank"} een gratis Minox proefaccount aan.
