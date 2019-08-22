@@ -1,0 +1,58 @@
+---
+label: Koppeling
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: link_to
+  label: link_to
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: from
+  label: from
+- type: text
+  name: to
+  label: to
+- type: text
+  name: install-url
+  label: install-url
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: developer
+  label: developer
+- type: text
+  name: developer-url
+  label: developer-url
+- type: number
+  name: price-per-month
+  label: price-per-month
+- type: number
+  name: price-per-year
+  label: price-per-year
+- type: number
+  name: trial-days
+  label: trial-days
+- type: text
+  name: manual-url
+  label: manual-url
+- type: text
+  name: privacy-url
+  label: privacy-url
+- type: text
+  name: support-url
+  label: support-url
+- type: field_group_list
+  name: screenshots
+  label: screenshots
+  fields:
+  - type: file
+    name: image
+    label: image
+pages:
+- _koppeling/teamleader-eaccounting-koppeling.md
