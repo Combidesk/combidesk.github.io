@@ -4,6 +4,7 @@ link_to: /koppeling/magento-afas
 layout: koppeling
 from: magento
 to: afas
+publish: false
 
 install-url: https://web.gladior.com/add-ons/magento-koppeling
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
