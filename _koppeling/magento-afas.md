@@ -13,9 +13,6 @@ excerpt: Orders vanuit Magento worden automatisch verkoop orders in AFAS Profit
 
 developer: Gladior  
 developer-url: https://web.gladior.com/portal-vervolgpagina/ccv-shop-koppeling
-price-per-month: 50
-price-per-year: 600
-trial-days: 30
 
 manual-url: 
 privacy-url: https://combidesk.com/privacy

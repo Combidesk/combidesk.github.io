@@ -13,9 +13,6 @@ excerpt: Verkopen vanuit CCV Shop worden overgeheveld als verkoopboekingen in AF
 
 developer: Gladior  
 developer-url: https://web.gladior.com/portal-vervolgpagina/ccv-shop-koppeling
-price-per-month: 40
-price-per-year: 400
-trial-days: 30
 
 manual-url: https://web.gladior.com/add-ons/ccv-shop-koppeling
 privacy-url: https://combidesk.com/privacy

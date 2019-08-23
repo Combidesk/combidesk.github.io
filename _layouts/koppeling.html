@@ -31,13 +31,21 @@ section_id: koppelingen
       </div>
       <div class='four spacing'></div>
       <div class="large-12 columns centered-text">
+        {% if page.trial-days %}
         <a class='button {{ button.klass }}' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer {{ page.trial-days}}
           dagen gratis</a>
+        {% else %}
+        <a class='button {{ button.klass }}' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer nu</a>
+        {% endif %}
         <!-- <div class="centered-text">{{ page.trial-days}} dagen gratis uitproberen</div>
       </div> -->
       <div class="large-12 columns">
-        <div class="centered-text">Daarna <sup>&euro;</sup><span
+
+        <div class="centered-text">
+          {% if page.price-per-month %}
+          Daarna <sup>&euro;</sup><span
             style="font-size:20px;">{{ page.price-per-month }}</span> per maand
+          {% endif %}
             <div class='four spacing'></div>
         </div>
       </div>
@@ -94,12 +102,14 @@ section_id: koppelingen
       </ul>
       <br>
       <br>
+      {% if page.price-per-month %}
       <h2>Prijzen</h2>
       De proefperiode bedraagt {{ page.trial-days}} dagen, daarna kost de koppeling {{ page.price-per-month }} euro per
       administratie per maand (of {{ page.price-per-year }} euro per jaar - 2 maanden korting bij een jaarlicentie).
       <br></br>
       <br>
       <br>
+      {% endif %}
       <h2>Accounts</h2>
       Om deze koppeling te kunnen gebruiken heb je een account nodig van onderstaande softwarepakketten.
       <a href="{{ fromapp.referral-url }}" target="_blank"><img alt="{{page.title}}" class="logo-small"
