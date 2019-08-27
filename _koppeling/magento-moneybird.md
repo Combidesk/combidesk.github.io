@@ -21,8 +21,8 @@ privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/Screenshots/screenshot-magento-moneybird-1.png
-    - image: /images/@stock/Screenshots/screenshot-magento-moneybird-2.gif
+    - image: 
+    - image: 
     - image: 
 
 ---
