@@ -649,7 +649,7 @@ hr {
   height: 60px;
 }
 .spacing.four {
-  height: 80px;
+  height: 40px;
 }
 
 .full {
@@ -3833,8 +3833,8 @@ body {
 }
 
 img.logo-small {
-  width:96px;
-  height:96px;
+  width:128px;
+  height:128px;
 }
 
 img.logo-medium {
