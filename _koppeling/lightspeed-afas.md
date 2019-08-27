@@ -4,6 +4,7 @@ link_to: /koppeling/lightspeed-afas
 layout: koppeling
 from: lightspeed
 to: afas
+publish: false
 
 install-url: https://www.lightspeedhq.nl/ecommerce/store/apps/afas-profit-financieel/
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
@@ -12,9 +13,6 @@ excerpt: Een Lightspeed order wordt een verkooporder in AFAS Online
 
 developer: Gladior  
 developer-url: https://web.gladior.com/add-ons/lightspeed-koppeling
-price-per-month: 40
-price-per-year: 400
-trial-days: 30
 
 manual-url: 
 privacy-url: https://combidesk.com/privacy

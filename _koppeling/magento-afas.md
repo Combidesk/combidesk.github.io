@@ -4,6 +4,7 @@ link_to: /koppeling/magento-afas
 layout: koppeling
 from: magento
 to: afas
+publish: false
 
 install-url: https://web.gladior.com/add-ons/magento-koppeling
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
@@ -12,9 +13,6 @@ excerpt: Orders vanuit Magento worden automatisch verkoop orders in AFAS Profit
 
 developer: Gladior  
 developer-url: https://web.gladior.com/portal-vervolgpagina/ccv-shop-koppeling
-price-per-month: 50
-price-per-year: 600
-trial-days: 30
 
 manual-url: 
 privacy-url: https://combidesk.com/privacy
