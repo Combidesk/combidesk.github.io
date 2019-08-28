@@ -11,8 +11,8 @@
       path: crm-koppelingen
     - name: Facturatie koppelingen
       path: facturatie-koppelingen
-    # - name: Kassa koppelingen
-    #   path: kassa-koppelingen
+    - name: Kassa koppelingen
+      path: kassa-koppelingen
 - name: Ervaringen
   path: ervaringen
   section_id: ervaringen
