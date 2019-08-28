@@ -154,8 +154,12 @@ section_id: koppelingen
   <div class='two spacing'></div>
   <div class='row'>
     <div class='large-12 columns centered-text'>
+        {% if page.trial-days %}
       <a class='button {{ button.klass }}' style="margin-bottom:center;" href='{{ page.install-url }}' target="_blank">Probeer
         deze koppeling {{ page.trial-days}} dagen gratis</a>
+        {% else %}
+        <a class='button {{ button.klass }}' style="margin-bottom:0px;" href='{{ page.install-url }}' target="_blank">Probeer nu</a>
+        {% endif %}
     </div>
   </div>
   <div class='two spacing'></div>

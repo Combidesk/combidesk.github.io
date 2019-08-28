@@ -4,7 +4,7 @@ link_to: /koppeling/lightspeed-afas
 layout: koppeling
 from: lightspeed
 to: afas
-publish: false
+publish: true
 
 install-url: https://www.lightspeedhq.nl/ecommerce/store/apps/afas-profit-financieel/
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s

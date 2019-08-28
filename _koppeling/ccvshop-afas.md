@@ -4,7 +4,7 @@ link_to: /koppeling/ccvshop-afas
 layout: koppeling
 from: ccvshop
 to: afas
-publish: false
+publish: true
 
 install-url: https://web.gladior.com/add-ons/ccv-shop-koppeling
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
