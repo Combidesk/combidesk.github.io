@@ -4,21 +4,24 @@ link_to: "/koppeling/teamleader-visma"
 layout: koppeling
 from: teamleader
 to: visma
+
 install-url: https://marketplace.teamleader.eu/nl/nl/detail/combidesk/visma-e-accounting/76e1b6
-excerpt: Verkoopfacturen vanuit Teamleader worden overgeheveld als verkoopfacturen
-  in Visma
+excerpt: Verkoopfacturen vanuit Teamleader worden overgeheveld als verkoopfacturen   in Visma
+
 developer: Combidesk
 developer-url: https://combidesk.com
-price-per-month: "12"
-price-per-year: "120"
-trial-days: "30"
+price-per-month: 12
+price-per-year: 120
+trial-days: 30
+
 manual-url: https://help.combidesk.com/en/articles/3138738-installatiehandleiding-teamleader-visma-eaccounting-koppeling
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
+
 screenshots:
-- image: ""
-- image: ""
-- image: "  "
+- image: 
+- image: 
+- image: 
 
 ---
 Visma eAccounting is ontworpen voor ondernemers. Met slimme software helpen we je de administratie zo eenvoudig mogelijk te regelen. Want alles wat we voor je hebben geautomatiseerd hoef je niet handmatig te doen. Dat voorkomt fouten en scheelt je een hoop tijd.

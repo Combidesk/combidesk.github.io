@@ -21,9 +21,9 @@ privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/demo-1.png
-    - image: /images/@stock/demo-1.png
-    - image: /images/@stock/demo-1.png
+    - image: 
+    - image: 
+    - image: 
 
 ---
 

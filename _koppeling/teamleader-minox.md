@@ -4,21 +4,23 @@ link_to: "/koppeling/teamleader-minox"
 layout: koppeling
 from: teamleader
 to: minox
+
 install-url: https://marketplace.teamleader.eu/nl/nl/detail/combidesk/minox/4b9e3b
-excerpt: Verkoopfacturen vanuit Teamleader worden overgeheveld als verkoopfacturen
-  in Minox
+excerpt: Verkoopfacturen vanuit Teamleader worden overgeheveld als verkoopfacturen in Minox
+
 developer: Combidesk
 developer-url: https://combidesk.com
-price-per-month: "12"
-price-per-year: "120"
-trial-days: "30"
+price-per-month: 12
+price-per-year: 120
+trial-days: 30
+
 manual-url: 
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
 screenshots:
-- image: ""
-- image: ""
-- image: ""
+- image: 
+- image: 
+- image: 
 
 ---
 Minox is een het platform voor ondernemers en accountants die de voordelen van online boekhouden willen omarmen. Deze software automatiseert je boekhouding, geeft je relevante inzichten en helpt je efficiënter te ondernemen.
