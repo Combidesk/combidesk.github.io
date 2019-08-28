@@ -5,12 +5,12 @@
   path: koppelingen
   section_id: koppelingen
   children:
-    - name: Webshop koppelingen
-      path: webshop-koppelingen
     - name: CRM koppelingen
       path: crm-koppelingen
     - name: Facturatie koppelingen
       path: facturatie-koppelingen
+    - name: Webshop koppelingen
+      path: webshop-koppelingen
     - name: Kassa koppelingen
       path: kassa-koppelingen
 - name: Ervaringen
