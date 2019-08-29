@@ -6,15 +6,15 @@ from: lightspeed
 to: afas
 publish: true
 
-install-url: https://www.lightspeedhq.nl/ecommerce/store/apps/afas-profit-financieel/
+install-url: https://web.gladior.com/add-ons/lightspeed-koppeling
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
 excerpt: Een Lightspeed order wordt een verkooporder in AFAS Online  
 
 developer: Gladior  
-developer-url: https://web.gladior.com/add-ons/lightspeed-koppeling
+developer-url: https://web.gladior.com/portal-vervolgpagina/lightspeed-koppeling
 
-manual-url: 
+manual-url: https://web.gladior.com/add-ons/lightspeed-koppeling
 privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
