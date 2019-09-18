@@ -4,7 +4,7 @@ link_to: /koppeling/moneybird-afas
 layout: koppeling
 from: moneybird
 to: afas
-publish: false
+publish: true
 
 install-url: https://combidesk.com/integration/moneybird-afas
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
