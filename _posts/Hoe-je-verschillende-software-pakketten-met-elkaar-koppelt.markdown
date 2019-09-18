@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hoe je verschillende software pakketten met elkaar koppelt
-date:   2018-10-28 10:57:12
+date:   2019-08-13 10:57:12
 images: images/@stock/Blog/hoe-je-verschillende-software-pakketten-met-elkaar-koppelt.png
 excerpt:
   Of software (eenvoudig) te koppelen is hangt voornamelijk af van de vragen of er API’s beschikbaar zijn en zo niet, of de huidige software leverancier wil meewerken. Laten we per scenario eens kijken hoe we te werk gaan.
