@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Redenen Om Je Facturatiepakket Aan Je Boekhouding Te Koppelen
-date: 2019-06-28T10:58:12.000+00:00
+date: 2018-12-28T10:58:12.000+00:00
 images:
 - images/@stock/Blog/9-redenen-om-je-facturatiepakket-aan-je-boekhouding-te-koppeling.png
 excerpt: We zijn inmiddels twee jaar onderweg met de koppeling tussen Moneybird en
