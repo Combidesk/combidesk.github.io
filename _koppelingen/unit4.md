@@ -2,7 +2,7 @@
 title: UNIT4 koppelingen
 key: unit4
 image: /images/@stock/Logos/unit4-koppelingen.png
-link_to: /koppelingen/afas
+link_to: /koppelingen/unit4
 klass: boekhoud 
 layout: koppelingen
 referral-url:
