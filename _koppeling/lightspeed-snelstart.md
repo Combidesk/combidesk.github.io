@@ -21,16 +21,16 @@ privacy-url: https://combidesk.com/privacy
 support-url: https://combidesk.com/contact
       
 screenshots:
-    - image: /images/@stock/Screenshots/screenshot-ccvshop-moneybird-1.png
-    - image: /images/@stock/Screenshots/screenshot-ccvshop-moneybird-2.gif
+    - image: 
+    - image: 
     - image: 
 
 ---
 
-* Wanneer een order de bepaalde orderstatus heeft, wordt er een factuur aangemaakt in SnelStart. 
+* Wanneer een order de bepaalde orderstatus heeft, wordt er een factuur aangemaakt in [SnelStart](https://www.snelstart.nl/gratis-proberen?utm_source=boekhoudkoppelingen&utm_medium=cta&utm_campaign=partner&utm_term=boekhoudkoppelingen). 
 * De resultatenrekening en BTW-aangifte worden meteen bijgewerkt.
 * In SnelStart wordt een nieuwe klant automatisch aangemaakt.
-* Bestaande bestellingen worden eventueel overgenomen van Lightspeed naar je SnelStart account
+* Bestaande bestellingen worden eventueel overgenomen van Lightspeed naar je [SnelStart account](https://www.snelstart.nl/gratis-proberen?utm_source=boekhoudkoppelingen&utm_medium=cta&utm_campaign=partner&utm_term=boekhoudkoppelingen)
 * Bestelinformatie producten (productnaam, aantal, bedrag van de bestelregel en de btw) en verzendkosten worden overgenomen.
 * Kortingen, zowel kortingscodes als webwinkelwagen kortingen worden meegenomen.
 * Je bespaart tijd, werkt efficiënter en verhoogt je werkplezier.
@@ -50,4 +50,4 @@ screenshots:
 * Deze koppeling wordt iedere 15-30 minuten (meestal eerder) gesynchroniseerd.
 * Afgeronde orders worden overgezet vanaf het moment van installatie, orderhistorie kan automatisch worden meegenomen.
 * Klanten worden op basis van een uniek e-mailadres aangemaakt in SnelStart. Wijzigingen in gegevens van klanten in je Lightspeed webshop worden vooralsnog niet automatisch bijgewerkt in SnelStart en omgekeerd.
-* Gebruik SnelStart als betaalbaar en eenvoudig boekhoudpakket. Wij adviseren om de facturatie vanuit Lightspeed te laten verlopen.
+* Gebruik [SnelStart](https://www.snelstart.nl/gratis-proberen?utm_source=boekhoudkoppelingen&utm_medium=cta&utm_campaign=partner&utm_term=boekhoudkoppelingen) als betaalbaar en eenvoudig boekhoudpakket. Wij adviseren om de facturatie vanuit Lightspeed te laten verlopen.
