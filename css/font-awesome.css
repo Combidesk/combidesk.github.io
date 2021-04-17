@@ -17,6 +17,7 @@
   font: normal normal normal 14px/1 FontAwesome;
   color: black;
   font-size: 2em;
+  vertical-align: -25%;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
