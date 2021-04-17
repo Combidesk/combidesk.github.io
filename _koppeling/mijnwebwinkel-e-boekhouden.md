@@ -13,7 +13,7 @@ excerpt: Orders vanuit Mijnwebwinkel worden overgeheveld als facturen in e-Boekh
 developer: Combidesk  
 developer-url: https://combidesk.com
 price-per-month: 6
-price-per-year: 72
+price-per-year: 60
 trial-days: 30
 
 manual-url: 
