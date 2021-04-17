@@ -5,7 +5,7 @@ layout: koppeling
 from: mijnwebwinkel
 to: snelstart
 
-install-url: https://combidesk.com/integration/mijnwebwinkel-eboekhouden
+install-url: https://combidesk.com/integration/mijnwebwinkel-snelstart
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
 excerpt: Orders vanuit Mijnwebwinkel worden overgeheveld als facturen in SnelStart. 
