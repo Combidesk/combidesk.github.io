@@ -10,8 +10,8 @@ excerpt: Verkoopfacturen vanuit Teamleader worden overgeheveld als verkoopfactur
 
 developer: Combidesk
 developer-url: https://combidesk.com
-price-per-month: 18
-price-per-year: 180
+price-per-month: 12
+price-per-year: 120
 trial-days: 30
 
 manual-url: 
