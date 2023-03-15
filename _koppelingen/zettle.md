@@ -2,7 +2,7 @@
 title: Zettle koppelingen
 key: zettle
 image: /images/@stock/Logos/zettle-koppelingen.png
-link_to: /koppelingen/zettle
+link_to: /koppelingen/izettle
 klass: kassa
 layout: koppelingen
 referral-url:

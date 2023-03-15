@@ -5,7 +5,7 @@ layout: koppeling
 from: izettle
 to: moneybird
 
-install-url: https://combidesk.com/koppeling/zettle-moneybird
+install-url: https://combidesk.com/koppeling/izettle-moneybird
 #video-url: https://www.youtube.com/watch?v=sTiAexI7vpQ&t=3s
 
 excerpt: Betalingen vanuit Zettle worden automatisch overgeheveld als facturen in Moneybird. 
