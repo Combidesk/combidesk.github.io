@@ -1,7 +1,7 @@
 ---
 title: Zettle koppelingen
 key: izettle
-image: /images/@stock/Logos/zettle-koppelingen.png
+image: /images/@stock/Logos/izettle-koppelingen.png
 link_to: /koppelingen/izettle
 klass: kassa
 layout: koppelingen

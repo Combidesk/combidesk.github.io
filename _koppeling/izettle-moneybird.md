@@ -1,5 +1,5 @@
 ---
-title: Zettle Moneybird koppeling
+title: iZettle Moneybird koppeling
 link_to: /koppeling/izettle-moneybird
 layout: koppeling
 from: izettle
