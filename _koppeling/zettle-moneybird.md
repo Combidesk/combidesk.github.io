@@ -2,7 +2,7 @@
 title: Zettle Moneybird koppeling
 link_to: /koppeling/izettle-moneybird
 layout: koppeling
-from: zettle
+from: izettle
 to: moneybird
 
 install-url: https://combidesk.com/koppeling/zettle-moneybird
